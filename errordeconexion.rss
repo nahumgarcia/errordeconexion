@@ -1,0 +1,1199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+xmlns:podcast="https://github.com/Podcastindex-org/podcast-namespace/blob/main/docs/1.0.md"
+xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
+xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+>
+<channel>
+	<title>Error de Conexión</title>
+	<atom:link href="http://errordeconexion.com/feed/podcast/" rel="self" type="application/rss+xml" />
+	<link>http://errordeconexion.com</link>
+	<description>un podcast trasnochado</description>
+	<lastBuildDate>Wed, 23 Sep 2020 17:49:09 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+		<generator>https://wordpress.org/?v=6.0.9</generator>
+<!-- podcast_generator="Blubrry PowerPress/9.0.3" mode="advanced" feedslug="podcast" Blubrry PowerPress Podcasting plugin for WordPress (https://www.blubrry.com/powerpress/) -->
+	<atom:link rel="hub" href="https://pubsubhubbub.appspot.com/" />
+	<itunes:summary>Un podcast trasnochado sobre estar vivo en el siglo XXI.</itunes:summary>
+	<itunes:author>Nahúm García y Andrés Cabanes</itunes:author>
+	<itunes:explicit>clean</itunes:explicit>
+	<itunes:image href="http://errordeconexion.com/wp-content/uploads/powerpress/Error_de_Conexion_Logo_v2_3000.jpg" />
+	<itunes:type>episodic</itunes:type>
+	<itunes:owner>
+		<itunes:name>Nahúm García y Andrés Cabanes</itunes:name>
+		<itunes:email>edc@nahumgarcia.com</itunes:email>
+	</itunes:owner>
+	<managingEditor>edc@nahumgarcia.com (Nahúm García y Andrés Cabanes)</managingEditor>
+	<copyright>&#xA9; Error de Conexión 2020</copyright>
+	<itunes:subtitle>Un podcast trasnochado sobre estar vivo en el siglo XXI.</itunes:subtitle>
+	<image>
+		<title>Error de Conexión</title>
+		<url>http://errordeconexion.com/wp-content/uploads/powerpress/EDC_Logo_300.jpg</url>
+		<link>http://errordeconexion.com</link>
+	</image>
+	<itunes:category text="Society &amp; Culture">
+		<itunes:category text="Personal Journals" />
+	</itunes:category>
+	<googleplay:category text="Society &amp; Culture"/>
+	<itunes:category text="News">
+		<itunes:category text="Tech News" />
+	</itunes:category>
+	<itunes:category text="Music" />
+	<rawvoice:location>Madrid, Spain</rawvoice:location>
+	<podcast:location>Madrid, Spain</podcast:location>
+	<rawvoice:subscribe feed="http://errordeconexion.com/feed/podcast/" itunes="https://itunes.apple.com/es/podcast/error-de-conexion/id762715436"></rawvoice:subscribe>
+	<item>
+		<title>Ep039: Decepcionante, se han cargado el podcast</title>
+		<link>http://errordeconexion.com/ep039-decepcionante-se-han-cargado-el-podcast/</link>
+		<pubDate>Fri, 18 Sep 2020 18:13:48 +0000</pubDate>
+		<guid isPermaLink="false">http://errordeconexion.com/?p=368</guid>
+		<comments>http://errordeconexion.com/ep039-decepcionante-se-han-cargado-el-podcast/#respond</comments>
+		<wfw:commentRss>http://errordeconexion.com/ep039-decepcionante-se-han-cargado-el-podcast/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[episodios]]></category>
+		<category><![CDATA[#bluraygate]]></category>
+		<category><![CDATA[Aeropress]]></category>
+		<category><![CDATA[CSI]]></category>
+		<category><![CDATA[David Lynch]]></category>
+		<category><![CDATA[Horchata]]></category>
+		<category><![CDATA[Ironman]]></category>
+		<category><![CDATA[Juego de Tronos]]></category>
+		<category><![CDATA[JustWatch]]></category>
+		<category><![CDATA[La Carretera]]></category>
+		<category><![CDATA[Lost]]></category>
+		<category><![CDATA[Marvel’s Agent of S.H.I.E.L.D.]]></category>
+		<category><![CDATA[The Last of Us]]></category>
+		<category><![CDATA[TVTropes]]></category>
+		<category><![CDATA[Twin Peaks]]></category>
+		<description>&lt;p&gt;De las propiedades de la horchata hasta el #bluraygate pasando por el ubicuo David Lynch, el café en Aero Press y The Last of Us, sin olvidarnos del bigote de Aznar. Un batiburrillo marca de la casa. Las propiedades de la Horchata ¿Por qué Aznar tiene bigote? Políticos que juegan al dominó AeroPress Will it … &lt;a href=&quot;http://errordeconexion.com/ep039-decepcionante-se-han-cargado-el-podcast/&quot; class=&quot;more-link&quot;&gt;Seguir leyendo &lt;span class=&quot;screen-reader-text&quot;&gt;Ep039: Decepcionante, se han cargado el podcast&lt;/span&gt; &lt;span class=&quot;meta-nav&quot;&gt;→&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The post &lt;a href=&quot;http://errordeconexion.com/ep039-decepcionante-se-han-cargado-el-podcast/&quot;&gt;Ep039: Decepcionante, se han cargado el podcast&lt;/a&gt; first appeared on &lt;a href=&quot;http://errordeconexion.com&quot;&gt;Error de Conexión&lt;/a&gt;.&lt;/p&gt;</description>
+		<content:encoded><![CDATA[<p>De las propiedades de la horchata hasta el #bluraygate pasando por el ubicuo David Lynch, el café en Aero Press y The Last of Us, sin olvidarnos del bigote de Aznar. Un batiburrillo marca de la casa.</p>
+
+
+
+<ul><li><a href="http://www.chufadevalencia.org/ver/19/Propiedades.html">Las propiedades de la Horchata</a></li><li><a href="https://www.forocoches.com/foro/showthread.php?t=59831">¿Por qué Aznar tiene bigote?</a></li><li><a href="http://fedoca.es/domino-juego-bobos/">Políticos que juegan al dominó</a></li><li><a href="https://amzn.to/3iVy8u0">AeroPress</a></li><li><a href="https://www.youtube.com/watch?v=T0ImibHwYqU">Will it blend?</a>&nbsp;</li><li><a href="https://www.indiewire.com/2020/05/david-lynch-quarantine-weather-report-1202230657/">David Lynch leyendo el tiempo</a></li><li><a href="https://www.pocket-lint.com/tv/news/samsung/152632-has-your-samsung-blu-ray-player-stopped-working">Samsung Blu ray gate</a>&nbsp;</li></ul>
+
+
+
+<p><strong>Series:&nbsp;</strong></p>
+
+
+
+<ul><li><em><a href="https://www.espinof.com/series-de-ficcion/twin-peaks-origen-serie-que-david-lynch-cambio-television-para-siempre" target="_blank" rel="noreferrer noopener">Twin Peaks</a></em> y <a href="https://fueradeseries.com/twin-peaks-el-regreso-un-ano-despues-de-su-final-530f4b39785f"><em>Twin Peaks el regreso</em></a></li><li><a href="https://tvtropes.org/">TVTropes</a></li><li><a href="https://csi.fandom.com/es/wiki/Pilot"><em>CSI Las Vegas</em> (piloto)</a></li><li><a href="https://www.espinof.com/series-de-ficcion/por-que-merece-la-pena-ver-perdidos" target="_blank" rel="noreferrer noopener"><em>Lost</em> (Damon Lindeloff, J. J. Abrams, Carlton Cuse)</a></li><li><a href="https://marvelcinematicuniverse.fandom.com/es/wiki/Agents_of_S.H.I.E.L.D." target="_blank" rel="noreferrer noopener" title="https://marvelcinematicuniverse.fandom.com/es/wiki/Agents_of_S.H.I.E.L.D."><em>Agents of S.H.I.E.L.D.</em></a></li><li><a href="https://www.instagram.com/p/BjFsj6JHEdq/">La carta de Damon Lindeloff sobre <em>Watchmen</em></a></li></ul>
+
+
+
+<p><strong>The Last of Us</strong>:</p>
+
+
+
+<ul><li><a href="https://www.metacritic.com/game/playstation-4/the-last-of-us-part-ii">El review bombing de Metacritic</a></li><li><a href="https://es.wikipedia.org/wiki/Ophiocordyceps_unilateralis">El hongo que convierte en zombie</a></li><li><a href="https://www.metacritic.com/game/playstation-4/the-last-of-us-part-ii">Los paisajes del juego</a></li></ul>
+
+
+
+<p><strong>Películas, libros y apps</strong> </p>
+
+
+
+<ul><li><a href="https://www.jeffbridges.com/main.html"><em>Ironman</em>, set de fotos de Jeff Bridges</a> </li><li><a href="https://www.libros-prohibidos.com/cormac-mccarthy-la-carretera/" target="_blank" rel="noreferrer noopener"><em>La Carretera</em>, Cormac McCarthy</a></li><li><a href="https://www.directoalpaladar.com/otros/viaje-gastronomico-por-juego-de-tronos" target="_blank" rel="noreferrer noopener">La comida de <em>Juego de Tronos </em></a></li><li><a href="https://georgerrmartin.com/notablog/2020/06/23/writing-reading-writing/" target="_blank" rel="noreferrer noopener">George R. Martin sigue escribiendo <em>The Winds of Winter</em></a></li><li>Apps: <a href="https://www.justwatch.com/es">Just Watch</a> y <a href="https://www.alfredapp.com/">Alfred App</a></li></ul><p>The post <a href="http://errordeconexion.com/ep039-decepcionante-se-han-cargado-el-podcast/">Ep039: Decepcionante, se han cargado el podcast</a> first appeared on <a href="http://errordeconexion.com">Error de Conexión</a>.</p>]]></content:encoded>
+		<enclosure url="http://media.blubrry.com/errordeconexion/errordeconexion.com/episodes/EDC_EP039.mp3" length="57398597" type="audio/mpeg" />
+		<itunes:subtitle>De las propiedades de la horchata hasta el #bluraygate pasando por el ubicuo David Lynch, el café en Aero Press y The Last of Us, sin olvidarnos del bigote de Aznar. Un batiburrillo marca de la casa. Las propiedades de la Horchata ¿Por qué Aznar tiene ...</itunes:subtitle>
+		<itunes:summary>De las propiedades de la horchata hasta el #bluraygate pasando por el ubicuo David Lynch, el café en Aero Press y The Last of Us, sin olvidarnos del bigote de Aznar. Un batiburrillo marca de la casa. Las propiedades de la Horchata ¿Por qué Aznar tiene bigote? Políticos que juegan al dominó AeroPress Will it … Seguir leyendo Ep039: Decepcionante, se han cargado el podcast →</itunes:summary>
+		<itunes:author>Nahúm García y Andrés Cabanes</itunes:author>
+		<itunes:image href="http://errordeconexion.com/wp-content/uploads/2020/09/Error-de-Conexion-iTunes-39.png" />
+		<itunes:season>4</itunes:season>
+		<itunes:episode>39</itunes:episode>
+		<itunes:title>Decepcionante, se han cargado el podcast</itunes:title>
+		<itunes:duration>1:17:00</itunes:duration>
+		</item>
+	<item>
+		<title>Ep038: Envía SIMON al 777</title>
+		<link>http://errordeconexion.com/ep38-envia-simon-al-777/</link>
+		<pubDate>Fri, 05 Jun 2020 20:52:16 +0000</pubDate>
+		<guid isPermaLink="false">http://errordeconexion.com/?p=328</guid>
+		<comments>http://errordeconexion.com/ep38-envia-simon-al-777/#respond</comments>
+		<wfw:commentRss>http://errordeconexion.com/ep38-envia-simon-al-777/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[episodios]]></category>
+		<category><![CDATA[Animal Crossing]]></category>
+		<category><![CDATA[Apple Music]]></category>
+		<category><![CDATA[Esta noche cruzamos el Mississippi]]></category>
+		<category><![CDATA[Ginjinha]]></category>
+		<category><![CDATA[Malacara]]></category>
+		<category><![CDATA[Memes]]></category>
+		<category><![CDATA[Música]]></category>
+		<category><![CDATA[playlist]]></category>
+		<category><![CDATA[Spotify]]></category>
+		<category><![CDATA[The Mandalorian]]></category>
+		<category><![CDATA[The Volumen]]></category>
+		<description>&lt;p&gt;La cuarentena nos hace volver al ataquer!! con un nuevo episodio: un batiburrillo de nostalgia (televisiva) noventera, bebidas espirituosas (Ginjinha), videojuegos (Animal Crossing), series (The Mandalorian), memes (Malacara) y, como no, música.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href=&quot;http://errordeconexion.com/ep38-envia-simon-al-777/&quot;&gt;Ep038: Envía SIMON al 777&lt;/a&gt; first appeared on &lt;a href=&quot;http://errordeconexion.com&quot;&gt;Error de Conexión&lt;/a&gt;.&lt;/p&gt;</description>
+		<content:encoded><![CDATA[<p>La cuarentena nos hace volver al ataquer!! con un nuevo episodio: un batiburrillo de nostalgia (televisiva) noventera, bebidas espirituosas (Ginjinha), videojuegos (Animal Crossing)&#8230;</p>
+<ul>
+<li style="font-weight: 400;"><a href="https://www.espinof.com/entretenimiento/esta-noche-cruzamos-el-mississippi-nostalgia-tv"><span style="font-weight: 400;">Nostalgia TV noventera: Esta noche cruzamos el Missisippi</span></a></li>
+<li style="font-weight: 400;"><a href="https://es.wikipedia.org/wiki/Ginjinha"><span style="font-weight: 400;">Ginjinha y otras bebidas espirituosas</span></a></li>
+<li style="font-weight: 400;"><a href="https://www.businessinsider.com/animal-crossing-new-horizons-launch-sales-nintendo-switch-2020-5?IR=T"><span style="font-weight: 400;">El éxito de Animal Crossing</span></a></li>
+<li style="font-weight: 400;"><a href="https://www.youtube.com/watch?v=gUnxzVOs3rk"><span style="font-weight: 400;">La tecnología detrás de The Mandalorian</span></a></li>
+<li style="font-weight: 400;"><a href="https://www.instagram.com/malacarasev/"><span style="font-weight: 400;">Memeros: MALACARA</span></a></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">PLAYLIST: Música nueva fresquísima <a href="https://open.spotify.com/playlist/2A6TzNP6R0hmKr6XkvsVmb">[Spotify]</a> <a href="https://music.apple.com/es/playlist/error-de-conexi%C3%B3n-m%C3%BAsica-nueva-fresqu%C3%ADsima/pl.u-rR7XTeEmMam">[Apple Music]</a></span></li>
+</ul><p>The post <a href="http://errordeconexion.com/ep38-envia-simon-al-777/">Ep038: Envía SIMON al 777</a> first appeared on <a href="http://errordeconexion.com">Error de Conexión</a>.</p>]]></content:encoded>
+		<enclosure url="http://media.blubrry.com/errordeconexion/errordeconexion.com/episodes/EDC_Ep038.mp3" length="42170859" type="audio/mpeg" />
+		<itunes:subtitle>La cuarentena nos hace volver al ataquer!! con un nuevo episodio: un batiburrillo de nostalgia (televisiva) noventera, bebidas espirituosas (Ginjinha), videojuegos (Animal Crossing), series (The Mandalorian), memes (Malacara) y, como no, música.</itunes:subtitle>
+		<itunes:summary>La cuarentena nos hace volver al ataquer!! con un nuevo episodio: un batiburrillo de nostalgia (televisiva) noventera, bebidas espirituosas (Ginjinha), videojuegos (Animal Crossing), series (The Mandalorian), memes (Malacara) y, como no, música.</itunes:summary>
+		<itunes:author>Nahúm García y Andrés Cabanes</itunes:author>
+		<itunes:image href="http://errordeconexion.com/wp-content/uploads/2020/09/Error-de-Conexion-iTunes-38.png" />
+		<itunes:season>4</itunes:season>
+		<itunes:episode>38</itunes:episode>
+		<itunes:title>Envía SIMON al 777</itunes:title>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>55:51</itunes:duration>
+		</item>
+	<item>
+		<title>Ep037: Freaks al poder</title>
+		<link>http://errordeconexion.com/ep37-freaks-al-poder/</link>
+		<pubDate>Wed, 26 Apr 2017 19:29:31 +0000</pubDate>
+		<guid isPermaLink="false">http://errordeconexion.com/?p=311</guid>
+		<comments>http://errordeconexion.com/ep37-freaks-al-poder/#respond</comments>
+		<wfw:commentRss>http://errordeconexion.com/ep37-freaks-al-poder/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[episodios]]></category>
+		<category><![CDATA[colossal]]></category>
+		<category><![CDATA[dc comics]]></category>
+		<category><![CDATA[Hotel]]></category>
+		<category><![CDATA[Jeff goldblum]]></category>
+		<category><![CDATA[Joss Whedon]]></category>
+		<category><![CDATA[Monopoly]]></category>
+		<category><![CDATA[Nacho Vigalondo]]></category>
+		<category><![CDATA[Palé]]></category>
+		<category><![CDATA[Thor Ragnarok]]></category>
+		<category><![CDATA[Wonder Woman]]></category>
+		<description>&lt;p&gt;Wassup Thor Ragnarok Jeff Goldblun en Thor / Jeff Goldbuman Group #blackwhasing en Thor Wonder Woman Joss Whedon dirigirá la película de Bat Girl para DC/Warner Moteros tranquilos toros salvajes Colossal de Nacho Vigalondo: buenas críticas y buena taquilla Cortos Vigalondo – 7:35 de la mañana / Una lección de cine Juegos de Mesa: Hotel … &lt;a href=&quot;http://errordeconexion.com/ep37-freaks-al-poder/&quot; class=&quot;more-link&quot;&gt;Seguir leyendo &lt;span class=&quot;screen-reader-text&quot;&gt;Ep037: Freaks al poder&lt;/span&gt; &lt;span class=&quot;meta-nav&quot;&gt;→&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The post &lt;a href=&quot;http://errordeconexion.com/ep37-freaks-al-poder/&quot;&gt;Ep037: Freaks al poder&lt;/a&gt; first appeared on &lt;a href=&quot;http://errordeconexion.com&quot;&gt;Error de Conexión&lt;/a&gt;.&lt;/p&gt;</description>
+		<content:encoded><![CDATA[<ul>
+<li style="font-weight: 400;"><a href="https://www.youtube.com/watch?v=JJmqCKtJnxM"><span style="font-weight: 400;">Wassup</span></a></li>
+<li style="font-weight: 400;"><a href="https://youtu.be/v7MGUNV8MxU"><span style="font-weight: 400;">Thor Ragnarok</span></a></li>
+<li style="font-weight: 400;"><a href="http://www.imdb.com/title/tt3501632/mediaviewer/rm714289920"><span style="font-weight: 400;">Jeff Goldblun en Thor</span></a><span style="font-weight: 400;"> / </span><a href="https://www.youtube.com/watch?v=gpSGtpl58dw"><span style="font-weight: 400;">Jeff Goldbuman Group</span></a></li>
+<li style="font-weight: 400;"><a href="http://www.imdb.com/title/tt3501632/mediaviewer/rm714289920"><span style="font-weight: 400;">#blackwhasing</span></a> <a href="http://comicsalliance.com/racists-thor-idris-ebla-racism/"><span style="font-weight: 400;">en Thor</span></a></li>
+<li style="font-weight: 400;"><a href="https://www.youtube.com/watch?v=INLzqh7rZ-U"><span style="font-weight: 400;">Wonder Woman</span></a></li>
+<li style="font-weight: 400;"><a href="http://variety.com/2017/film/news/batgirl-movie-joss-whedon-warner-bros-1202018544/"><span style="font-weight: 400;">Joss Whedon dirigirá la película de Bat Girl para DC/Warner </span></a></li>
+<li style="font-weight: 400;"><a href="https://www.amazon.es/Moteros-tranquilos-toros-salvajes-generación/dp/8433973444"><span style="font-weight: 400;">Moteros tranquilos toros salvajes</span></a></li>
+<li style="font-weight: 400;"><a href="https://www.youtube.com/watch?v=fqcZtz8VXXE"><span style="font-weight: 400;">Colossal de Nacho Vigalondo</span></a><span style="font-weight: 400;">: </span><a href="https://letterboxd.com/film/colossal-2016/"><span style="font-weight: 400;">buenas críticas</span></a><span style="font-weight: 400;"> y </span><a href="http://www.ecartelera.com/noticias/38665/colossal-arrasa-taquilla-primer-fin-de-semana-eeuu/"><span style="font-weight: 400;">buena taquilla</span></a></li>
+<li style="font-weight: 400;"><a href="http://drafthousefilms.com/film/confetti-of-the-mind"><span style="font-weight: 400;">Cortos Vigalondo</span></a><span style="font-weight: 400;"> &#8211; </span><a href="https://vimeo.com/96564623"><span style="font-weight: 400;">7:35 de la mañana</span></a><span style="font-weight: 400;"> / </span><span style="font-weight: 400;"><a href="https://vimeo.com/67569318">Una lección de cine</a></span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Juegos de Mesa: </span><a href="https://www.youtube.com/watch?v=BrbHe1okJP8"><span style="font-weight: 400;">Hotel</span></a><span style="font-weight: 400;"> / </span><a href="https://www.youtube.com/watch?v=hPQThsfcxdk"><span style="font-weight: 400;">El Palé</span></a><span style="font-weight: 400;"> / </span><a href="https://www.youtube.com/watch?v=4YFamcMu8Rs"><span style="font-weight: 400;">Monopoly</span></a></li>
+</ul>
+<p><strong><a href="https://open.spotify.com/user/caban-es/playlist/4LwMR55KpIBAHiVx3ODzFM">[La BSO de Error de Conexión en Spotify]</a></strong></p><p>The post <a href="http://errordeconexion.com/ep37-freaks-al-poder/">Ep037: Freaks al poder</a> first appeared on <a href="http://errordeconexion.com">Error de Conexión</a>.</p>]]></content:encoded>
+		<enclosure url="http://media.blubrry.com/errordeconexion/errordeconexion.com/episodes/EDC_Ep037.mp3" length="18672694" type="audio/mpeg" />
+		<itunes:subtitle>Wassup Thor Ragnarok Jeff Goldblun en Thor / Jeff Goldbuman Group #blackwhasing en Thor Wonder Woman Joss Whedon dirigirá la película de Bat Girl para DC/Warner Moteros tranquilos toros salvajes Colossal de Nacho Vigalondo: buenas críticas y buena taqu...</itunes:subtitle>
+		<itunes:summary>Wassup Thor Ragnarok Jeff Goldblun en Thor / Jeff Goldbuman Group #blackwhasing en Thor Wonder Woman Joss Whedon dirigirá la película de Bat Girl para DC/Warner Moteros tranquilos toros salvajes Colossal de Nacho Vigalondo: buenas críticas y buena taquilla Cortos Vigalondo – 7:35 de la mañana / Una lección de cine Juegos de Mesa: Hotel … Seguir leyendo Ep037: Freaks al poder →</itunes:summary>
+		<itunes:author>Nahúm García y Andrés Cabanes</itunes:author>
+		<itunes:image href="http://errordeconexion.com/wp-content/uploads/powerpress/Error_de_Conexion_Logo_v2_3000.jpg" />
+		<itunes:season>3</itunes:season>
+		<itunes:episode>37</itunes:episode>
+		<itunes:title>Ep037: Freaks al poder</itunes:title>
+		<itunes:duration>34:49</itunes:duration>
+		</item>
+	<item>
+		<title>Ep036: Los Jrackers de las cosas del internet</title>
+		<link>http://errordeconexion.com/ep036-los-jrackers-de-las-cosas-del-internet/</link>
+		<pubDate>Sun, 16 Apr 2017 18:55:17 +0000</pubDate>
+		<guid isPermaLink="false">http://errordeconexion.com/?p=305</guid>
+		<comments>http://errordeconexion.com/ep036-los-jrackers-de-las-cosas-del-internet/#respond</comments>
+		<wfw:commentRss>http://errordeconexion.com/ep036-los-jrackers-de-las-cosas-del-internet/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[episodios]]></category>
+		<category><![CDATA[bombilas inteligentes]]></category>
+		<category><![CDATA[cámara]]></category>
+		<category><![CDATA[cámara ip]]></category>
+		<category><![CDATA[dron]]></category>
+		<category><![CDATA[hacks]]></category>
+		<category><![CDATA[Internet de las Cosas]]></category>
+		<category><![CDATA[IoT]]></category>
+		<category><![CDATA[Mac Pro]]></category>
+		<category><![CDATA[macaco japonés]]></category>
+		<description>&lt;p&gt;Obertura: Strangers in the night Lo del Mac Pro Macacos japones o macaco de cara roja Pastora – Lola Por qué tapar la cámara del ordenador Si tapas la cámara, ¿por qué no tapas el micro? La vulnerabilidad del IoT: Internet de las Cosas o IoT Osito de peluche hackeado Cámara cae desde avión a … &lt;a href=&quot;http://errordeconexion.com/ep036-los-jrackers-de-las-cosas-del-internet/&quot; class=&quot;more-link&quot;&gt;Seguir leyendo &lt;span class=&quot;screen-reader-text&quot;&gt;Ep036: Los Jrackers de las cosas del internet&lt;/span&gt; &lt;span class=&quot;meta-nav&quot;&gt;→&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The post &lt;a href=&quot;http://errordeconexion.com/ep036-los-jrackers-de-las-cosas-del-internet/&quot;&gt;Ep036: Los Jrackers de las cosas del internet&lt;/a&gt; first appeared on &lt;a href=&quot;http://errordeconexion.com&quot;&gt;Error de Conexión&lt;/a&gt;.&lt;/p&gt;</description>
+		<content:encoded><![CDATA[<p><span style="font-weight: 400;">Obertura:</span></p>
+<ul>
+<li style="font-weight: 400;"><a href="https://en.wikipedia.org/wiki/Strangers_in_the_Night"><span style="font-weight: 400;">Strangers in the night</span></a></li>
+<li style="font-weight: 400;"><a href="http://www.theverge.com/2017/4/4/15175994/apple-mac-pro-failure-admission"><span style="font-weight: 400;">Lo del Mac Pro</span></a></li>
+<li style="font-weight: 400;"><a href="https://es.wikipedia.org/wiki/Macaca_fuscata"><span style="font-weight: 400;">Macacos japones o macaco de cara roja</span></a></li>
+<li style="font-weight: 400;"><a href="https://www.youtube.com/watch?v=dKFtsJSDgCc"><span style="font-weight: 400;">Pastora &#8211; Lola</span></a></li>
+<li style="font-weight: 400;"><a href="http://www.bbc.com/mundo/noticias-37385403"><span style="font-weight: 400;">Por qué tapar la cámara del ordenador</span></a></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;"><a href="https://www.xataka.com/privacidad/si-tapas-tu-webcam-por-privacidad-quizas-te-interese-hacer-lo-mismo-con-tu-microfono">Si tapas la cámara, ¿por qué no tapas el micro?</a></span></li>
+</ul>
+<p><span style="font-weight: 400;">La vulnerabilidad del IoT:</span></p>
+<ul>
+<li style="font-weight: 400;"><a href="https://es.wikipedia.org/wiki/Internet_de_las_cosas"><span style="font-weight: 400;">Internet de las Cosas o IoT</span></a></li>
+<li style="font-weight: 400;"><a href="http://www.eldiario.es/cultura/tecnologia/privacidad/peluche-Internet-millones-conversaciones-padres_0_617338646.html"><span style="font-weight: 400;">Osito de peluche hackeado</span></a></li>
+<li style="font-weight: 400;"><a href="https://www.youtube.com/watch?v=QrxPuk0JefA"><span style="font-weight: 400;">Cámara cae desde avión a piara de cerdos</span></a></li>
+<li style="font-weight: 400;"><a href="https://www.xataka.com/internet-of-things/continuan-los-hackeos-al-internet-de-las-cosas-el-nuevo-blanco-son-las-bombillas-inteligentes"><span style="font-weight: 400;">Bombillas inteligentes hackeadas con un dron</span></a></li>
+<li style="font-weight: 400;"><a href="https://www.flashpoint-intel.com/blog/cybercrime/mirai-botnet-linked-dyn-dns-ddos-attacks/"><span style="font-weight: 400;">El último gran ataque DDoS es culpa de la vulnerabilidad del IoT</span></a></li>
+<li style="font-weight: 400;"><a href="http://es.gizmodo.com/los-riesgos-del-iot-un-vendedor-inutiliza-la-puerta-de-1794002365"><span style="font-weight: 400;">Bloquean remotamente puerta de garaje por mala puntuación en Amazon</span></a></li>
+<li style="font-weight: 400;"><a href="https://www.youtube.com/watch?v=NpN9NzO4Mo8"><span style="font-weight: 400;">Realizador deja que le roben el móvil para monitorizarlo y hacer un documental</span></a></li>
+</ul>
+<p><a href="https://open.spotify.com/user/caban-es/playlist/4LwMR55KpIBAHiVx3ODzFM">[La playlist del podcast en Spotify]</a>*</p>
+<p>*Ante la creciente&nbsp;dificultad para&nbsp;hacer una playlist&nbsp;por episodio, Andrés decide hacer una sola playlist genérica de esta temporada.</p><p>The post <a href="http://errordeconexion.com/ep036-los-jrackers-de-las-cosas-del-internet/">Ep036: Los Jrackers de las cosas del internet</a> first appeared on <a href="http://errordeconexion.com">Error de Conexión</a>.</p>]]></content:encoded>
+		<enclosure url="http://media.blubrry.com/errordeconexion/errordeconexion.com/episodes/EDC_Ep036.mp3" length="19572792" type="audio/mpeg" />
+		<itunes:subtitle>Obertura: Strangers in the night Lo del Mac Pro Macacos japones o macaco de cara roja Pastora – Lola Por qué tapar la cámara del ordenador Si tapas la cámara, ¿por qué no tapas el micro? La vulnerabilidad del IoT: Internet de las Cosas o IoT Osito de p...</itunes:subtitle>
+		<itunes:summary>Obertura: Strangers in the night Lo del Mac Pro Macacos japones o macaco de cara roja Pastora – Lola Por qué tapar la cámara del ordenador Si tapas la cámara, ¿por qué no tapas el micro? La vulnerabilidad del IoT: Internet de las Cosas o IoT Osito de peluche hackeado Cámara cae desde avión a … Seguir leyendo Ep036: Los Jrackers de las cosas del internet →</itunes:summary>
+		<itunes:author>Nahúm García y Andrés Cabanes</itunes:author>
+		<itunes:image href="http://errordeconexion.com/wp-content/uploads/powerpress/Error_de_Conexion_Logo_v2_3000.jpg" />
+		<itunes:season>3</itunes:season>
+		<itunes:episode>36</itunes:episode>
+		<itunes:title>Ep036: Los Jrackers de las cosas del internet</itunes:title>
+		<itunes:duration>36:42</itunes:duration>
+		</item>
+	<item>
+		<title>Ep035: Errores del Milenio</title>
+		<link>http://errordeconexion.com/ep035-errores-del-milenio/</link>
+		<pubDate>Sun, 02 Apr 2017 20:43:04 +0000</pubDate>
+		<guid isPermaLink="false">http://errordeconexion.com/?p=299</guid>
+		<comments>http://errordeconexion.com/ep035-errores-del-milenio/#respond</comments>
+		<wfw:commentRss>http://errordeconexion.com/ep035-errores-del-milenio/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[episodios]]></category>
+		<category><![CDATA[bbc dad]]></category>
+		<category><![CDATA[Creep]]></category>
+		<category><![CDATA[Ghost in the Shell]]></category>
+		<category><![CDATA[hidroxil]]></category>
+		<category><![CDATA[Iron Fist]]></category>
+		<category><![CDATA[latas]]></category>
+		<category><![CDATA[Meme]]></category>
+		<category><![CDATA[Mentos]]></category>
+		<category><![CDATA[Putin]]></category>
+		<category><![CDATA[resaca]]></category>
+		<category><![CDATA[whitewasing]]></category>
+		<description>&lt;p&gt;Pensamientos random: Métodos antiresaca: Hidroxil Las latas Anillas de latas y sillas de ruedas Vuelven los envases retornables Putin “canta” Creep El Pixel Facebook: ¿qué es?   La estupidez humana no tiene límites: Japonés mure sepultado por su colección de 6 toneladas de porno Muere electrocutado en la bañera cargando el iphone Japonés cubierto de … &lt;a href=&quot;http://errordeconexion.com/ep035-errores-del-milenio/&quot; class=&quot;more-link&quot;&gt;Seguir leyendo &lt;span class=&quot;screen-reader-text&quot;&gt;Ep035: Errores del Milenio&lt;/span&gt; &lt;span class=&quot;meta-nav&quot;&gt;→&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The post &lt;a href=&quot;http://errordeconexion.com/ep035-errores-del-milenio/&quot;&gt;Ep035: Errores del Milenio&lt;/a&gt; first appeared on &lt;a href=&quot;http://errordeconexion.com&quot;&gt;Error de Conexión&lt;/a&gt;.&lt;/p&gt;</description>
+		<content:encoded><![CDATA[<p><span style="font-weight: 400;">Pensamientos random:</span></p>
+<ul>
+<li style="font-weight: 400;"><a href="http://www.alitadepollo.net/30-remedios-para-la-resaca/"><span style="font-weight: 400;">Métodos antiresaca</span></a><span style="font-weight: 400;">: </span><a href="https://www.aemps.gob.es/cima/dochtml/p/79062/Prospecto_79062.html"><span style="font-weight: 400;">Hidroxil</span></a></li>
+<li style="font-weight: 400;"><a href=" https://en.wikipedia.org/wiki/Tin_can"><span style="font-weight: 400;">Las latas</span></a></li>
+<li style="font-weight: 400;"><a href="https://www.google.es/webhp?sourceid=chrome-instant&amp;ion=1&amp;espv=2&amp;ie=UTF-8#safe=off&amp;q=anillas+de+latas+silla+de+ruedas&amp;*"><span style="font-weight: 400;">Anillas de latas y sillas de ruedas</span></a></li>
+<li style="font-weight: 400;"><a href="http://www.publico.es/sociedad/envases-retornables-vuelven-espana.html"><span style="font-weight: 400;">Vuelven los envases retornables</span></a></li>
+<li style="font-weight: 400;"><a href="https://www.youtube.com/watch?v=2O_FClwUpQo"><span style="font-weight: 400;">Putin “canta” Creep </span></a></li>
+<li style="font-weight: 400;"><a href="https://www.facebook.com/business/help/www/651294705016616"><span style="font-weight: 400;">El Pixel Facebook</span></a><span style="font-weight: 400;">: </span><a href="http://comunidad.iebschool.com/iebs/redes-sociales/pixel-de-facebook/"><span style="font-weight: 400;">¿qué es?</span></a></li>
+</ul>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">La estupidez humana no tiene límites:</span></p>
+<ul>
+<li style="font-weight: 400;"><a href="http://www.antena3.com/noticias/mundo/japones-muere-aplastado-coleccion-revistas-porno-seis-toneladas_2017030458bab4330cf28c3fe972fa9d.html"><span style="font-weight: 400;">Japonés mure sepultado por su colección de 6 toneladas de porno</span></a></li>
+<li style="font-weight: 400;"><a href="http://tecnologia.elpais.com/tecnologia/2017/03/20/actualidad/1490004732_718815.html"><span style="font-weight: 400;">Muere electrocutado en la bañera cargando el iphone</span></a></li>
+<li style="font-weight: 400;"><a href="https://www.youtube.com/watch?v=2U6Dczl0rdQ"><span style="font-weight: 400;">Japonés cubierto de mentos y se baña en coca-cola light</span></a></li>
+<li style="font-weight: 400;"><a href="http://www.elespanol.com/deportes/baloncesto/nba/20170321/202479849_0.html"><span style="font-weight: 400;">Shaquille O’Neal dice que la tierra es plana</span></a></li>
+</ul>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">Memes y whitewashing:</span></p>
+<ul>
+<li style="font-weight: 400;"><a href="http://www.elmundo.es/f5/comparte/2016/12/30/586659c6468aeb0f758b45f3.html"><span style="font-weight: 400;">El cuñado de la contaminación</span></a></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">BBC DAD interview: </span><a href="https://www.youtube.com/watch?v=Mh4f9AYRCZY"><span style="font-weight: 400;">[original]</span></a> <a href=" https://www.youtube.com/watch?v=PLMSoD1riE0"><span style="font-weight: 400;">[entrevista]</span></a> <a href="http://io9.gizmodo.com/bbc-dad-interview-gets-inevitable-star-wars-parody-1793402538"><span style="font-weight: 400;">[Star Wars]</span></a> <a href="http://unitedunknown.com/late-motiv-andreu-buenafuente-2/"><span style="font-weight: 400;">[Podemos]</span></a></li>
+<li style="font-weight: 400;"><a href="http://www.polygon.com/2017/3/13/14910082/ghost-in-the-shell-meme-generator-i-am-major"><span style="font-weight: 400;">El whitewashing de Ghost in the shell</span></a></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Iron Fist</span></li>
+</ul>
+<p><strong><a href="https://open.spotify.com/user/caban-es/playlist/7BaPUGqDRduZwJBrgQT7hz">[La música del Episodio en Spotify]</a></strong></p><p>The post <a href="http://errordeconexion.com/ep035-errores-del-milenio/">Ep035: Errores del Milenio</a> first appeared on <a href="http://errordeconexion.com">Error de Conexión</a>.</p>]]></content:encoded>
+		<enclosure url="http://media.blubrry.com/errordeconexion/errordeconexion.com/episodes/EDC_Ep035.mp3" length="18731212" type="audio/mpeg" />
+		<itunes:subtitle>Pensamientos random: Métodos antiresaca: Hidroxil Las latas Anillas de latas y sillas de ruedas Vuelven los envases retornables Putin “canta” Creep El Pixel Facebook: ¿qué es?   La estupidez humana no tiene límites: Japonés mure sepultado por su colecc...</itunes:subtitle>
+		<itunes:summary>Pensamientos random: Métodos antiresaca: Hidroxil Las latas Anillas de latas y sillas de ruedas Vuelven los envases retornables Putin “canta” Creep El Pixel Facebook: ¿qué es?   La estupidez humana no tiene límites: Japonés mure sepultado por su colección de 6 toneladas de porno Muere electrocutado en la bañera cargando el iphone Japonés cubierto de … Seguir leyendo Ep035: Errores del Milenio →</itunes:summary>
+		<itunes:author>Nahúm García y Andrés Cabanes</itunes:author>
+		<itunes:image href="http://errordeconexion.com/wp-content/uploads/powerpress/Error_de_Conexion_Logo_v2_3000.jpg" />
+		<itunes:season>3</itunes:season>
+		<itunes:episode>35</itunes:episode>
+		<itunes:title>Ep035: Errores del Milenio</itunes:title>
+		<itunes:duration>34:57</itunes:duration>
+		</item>
+	<item>
+		<title>Ep034: Cocido mazagatos y pizza con piña</title>
+		<link>http://errordeconexion.com/ep034-cocido-mazagatos-y-pizza-con-pina/</link>
+		<pubDate>Sun, 05 Mar 2017 13:45:44 +0000</pubDate>
+		<guid isPermaLink="false">http://errordeconexion.com/?p=290</guid>
+		<comments>http://errordeconexion.com/ep034-cocido-mazagatos-y-pizza-con-pina/#respond</comments>
+		<wfw:commentRss>http://errordeconexion.com/ep034-cocido-mazagatos-y-pizza-con-pina/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[episodios]]></category>
+		<category><![CDATA[Abstract]]></category>
+		<category><![CDATA[Biggy Pop]]></category>
+		<category><![CDATA[Boston Dynamics]]></category>
+		<category><![CDATA[comic sans]]></category>
+		<category><![CDATA[drones]]></category>
+		<category><![CDATA[Handel]]></category>
+		<category><![CDATA[Jinn]]></category>
+		<category><![CDATA[Los del Rio]]></category>
+		<category><![CDATA[Macarena]]></category>
+		<category><![CDATA[micrófonos]]></category>
+		<category><![CDATA[Netflix]]></category>
+		<category><![CDATA[Nokia 3310]]></category>
+		<category><![CDATA[Omni Comsumer Products]]></category>
+		<category><![CDATA[pineappleonpizza]]></category>
+		<category><![CDATA[pizza con piña]]></category>
+		<category><![CDATA[San San]]></category>
+		<category><![CDATA[Shure]]></category>
+		<category><![CDATA[SM57]]></category>
+		<category><![CDATA[SM58]]></category>
+		<category><![CDATA[Tensorflow]]></category>
+		<description>&lt;p&gt;Un poco de todo: Los micros de los presidentes de USA [aquí] [aquí] [aquí] La burbuja de loros en internet: Biggy Pop, el de Iggy Pop OCP: Omni Comsumer Products Tocatas modernikis en Quick Starter: Love y Rokblok ¿El Universo Rock Star español? Cocido maragato (que no mazagato) Jinn, la app para pedir Five Guys … &lt;a href=&quot;http://errordeconexion.com/ep034-cocido-mazagatos-y-pizza-con-pina/&quot; class=&quot;more-link&quot;&gt;Seguir leyendo &lt;span class=&quot;screen-reader-text&quot;&gt;Ep034: Cocido mazagatos y pizza con piña&lt;/span&gt; &lt;span class=&quot;meta-nav&quot;&gt;→&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The post &lt;a href=&quot;http://errordeconexion.com/ep034-cocido-mazagatos-y-pizza-con-pina/&quot;&gt;Ep034: Cocido mazagatos y pizza con piña&lt;/a&gt; first appeared on &lt;a href=&quot;http://errordeconexion.com&quot;&gt;Error de Conexión&lt;/a&gt;.&lt;/p&gt;</description>
+		<content:encoded><![CDATA[<p><span style="font-weight: 400;">Un poco de todo:</span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Los micros de los presidentes de USA </span><a href="http://www.videojournalisttoday.com/audio/president's-microphone"><span style="font-weight: 400;">[aquí]</span></a> <a href="http://blog.shure.com/the-sm57-and-the-president-of-the-united-states-a-webinar/"><span style="font-weight: 400;">[aquí]</span></a> <a href="https://en.wikipedia.org/wiki/Shure_SM57"><span style="font-weight: 400;">[aquí]</span></a></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">La burbuja de loros en internet: </span><a href="https://www.instagram.com/biggypop/"><span style="font-weight: 400;">Biggy Pop, el de Iggy Pop</span></a></li>
+<li style="font-weight: 400;"><a href="https://en.wikipedia.org/wiki/RoboCop_(franchise)#Omni_Consumer_Products"><span style="font-weight: 400;">OCP: Omni Comsumer Products</span></a></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Tocatas modernikis en Quick Starter: </span><a href="https://www.kickstarter.com/projects/493608538/love-the-worlds-first-intelligent-turntable"><span style="font-weight: 400;">Love</span></a><span style="font-weight: 400;"> y </span><a href="https://www.kickstarter.com/projects/pinkdonut/rokblok-a-new-spin-on-vinyl"><span style="font-weight: 400;">Rokblok</span></a></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;"><a href="http://www.europapress.es/cultura/musica-00129/noticia-video-rio-cantan-macarena-sidonie-ivan-ferreiro-habitacion-roja-dinero-was-miss-caffeina-20170222185219.html">¿El Universo Rock Star español?</a></span></li>
+<li style="font-weight: 400;"><a href="https://es.wikipedia.org/wiki/Cocido_maragato"><span style="font-weight: 400;">Cocido maragato (que no mazagato)</span></a></li>
+<li style="font-weight: 400;"><a href="https://www.jinnapp.com/"><span style="font-weight: 400;">Jinn, la app</span></a><span style="font-weight: 400;"> para pedir </span><a href="https://www.fiveguys.es/"><span style="font-weight: 400;">Five Guys</span></a><span style="font-weight: 400;"> a domicilio en Madrid</span></li>
+<li style="font-weight: 400;"><a href="https://www.netflix.com/es/title/80057883"><i>Abstract</i>, la serie de diseño de Netflix.</a></li>
+<li><a href="http://www.expansion.com/tecnologia/mobile-world-congress/2017/02/28/58b55a9e468aeb6f318b458f.html">¿Sueñan los androides&nbsp;con series de Netflix?</a></li>
+<li style="font-weight: 400;"><a href="https://www.cnet.com/news/nokia-3310-android-nostalgia-trap-avoiding-getting-stuck-in-the-past/">Lo del Nokia 3310</a></li>
+</ul>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">Tecnología que da miedo:</span></p>
+<ul>
+<li style="font-weight: 400;"><a href="http://www.microsiervos.com/archivo/drones/dron-lanzallamas-limpiar-tendidos-electricos.html"><span style="font-weight: 400;">Drones con lanzallamas</span></a><span style="font-weight: 400;">, </span></li>
+<li style="font-weight: 400;"><a href="https://www.youtube.com/watch?v=-7xvqQeoA8c"><span style="font-weight: 400;">Handle, el nuevo robot de Boston Dynamics</span></a></li>
+<li style="font-weight: 400;"><a href="http://www.theverge.com/2017/2/21/14678230/edge2cat-machine-learning-tensorflow-ai-drawing-cthulu-take-the-wheel"><span style="font-weight: 400;">Tensorflow, el machine-learning que “dibuja” que da miedo</span></a></li>
+<li style="font-weight: 400;"><a href="https://thenextweb.com/apps/2017/02/28/netflix-adds-comic-sans-subtitles-can-ruin-improve-favorite-movies/#.tnw_wzGtaYn5"><span style="font-weight: 400;">Netflix permite comic sans en sus subtítulos. </span></a></li>
+</ul>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">The </span><a href="https://twitter.com/hashtag/pineappleonpizza?src=hash&amp;ref_src=twsrc%5Etfw"><span style="font-weight: 400;">#pineappleonpizza</span></a><span style="font-weight: 400;"> gate:</span></p>
+<ul>
+<li style="font-weight: 400;"><a href="http://edition.cnn.com/2017/02/21/europe/iceland-president-pineapple-pizza-ban-trnd/index.html"><span style="font-weight: 400;">¿Prohibiría la pizza con piña el Presidente de Islandia? (CNN)</span></a></li>
+<li style="font-weight: 400;"><a href="http://foreignpolicy.com/2017/02/21/iceland-president-denounces-pineapple-pizza-as-topping-the-real-pizza-gate-scandal-story/?utm_content=buffera205d&amp;utm_medium=social&amp;utm_source=facebook.com&amp;utm_campaign=buffer"><span style="font-weight: 400;">El Presidente de Islandia desata la polémica (FP)</span></a></li>
+<li style="font-weight: 400;"><a href="https://www.theguardian.com/world/2017/feb/21/icelands-president-would-ban-pineapple-on-pizza-if-he-could"><span style="font-weight: 400;">El Presidente de Islandia se ve obligado a dar explicaciones (The Guardian)</span></a></li>
+<li style="font-weight: 400;"><a href="http://dle.rae.es/?id=THUjqhF"><span style="font-weight: 400;">Pizza (DRAE)</span></a></li>
+<li style="font-weight: 400;"><a href="https://es.wikipedia.org/wiki/Pizza_napolitana"><span style="font-weight: 400;">Pizza Napolitana con DO</span></a></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;"><a href="https://twitter.com/EDCPodcast/status/837721733402615809">¿Piña en la pizza SI o NO? Nuestra encuesta en Twitter</a></span></li>
+</ul>
+<p><a href="https://open.spotify.com/user/caban-es/playlist/5zTlsJPByxbb4PsGvj4suW"><span style="font-weight: 400;">[¿La música del episodio en Spotify?]</span></a></p><p>The post <a href="http://errordeconexion.com/ep034-cocido-mazagatos-y-pizza-con-pina/">Ep034: Cocido mazagatos y pizza con piña</a> first appeared on <a href="http://errordeconexion.com">Error de Conexión</a>.</p>]]></content:encoded>
+		<enclosure url="http://media.blubrry.com/errordeconexion/errordeconexion.com/episodes/EDC_Ep034.mp3" length="19616464" type="audio/mpeg" />
+		<itunes:subtitle>Un poco de todo: Los micros de los presidentes de USA [aquí] [aquí] [aquí] La burbuja de loros en internet: Biggy Pop, el de Iggy Pop OCP: Omni Comsumer Products Tocatas modernikis en Quick Starter: Love y Rokblok ¿El Universo Rock Star español?</itunes:subtitle>
+		<itunes:summary>Un poco de todo: Los micros de los presidentes de USA [aquí] [aquí] [aquí] La burbuja de loros en internet: Biggy Pop, el de Iggy Pop OCP: Omni Comsumer Products Tocatas modernikis en Quick Starter: Love y Rokblok ¿El Universo Rock Star español? Cocido maragato (que no mazagato) Jinn, la app para pedir Five Guys … Seguir leyendo Ep034: Cocido mazagatos y pizza con piña →</itunes:summary>
+		<itunes:author>Nahúm García y Andrés Cabanes</itunes:author>
+		<itunes:image href="http://errordeconexion.com/wp-content/uploads/powerpress/Error_de_Conexion_Logo_v2_3000.jpg" />
+		<itunes:season>3</itunes:season>
+		<itunes:episode>34</itunes:episode>
+		<itunes:title>Ep034: Cocido mazagatos y pizza con piña</itunes:title>
+		<itunes:duration>36:47</itunes:duration>
+		</item>
+	<item>
+		<title>Ep033: Alberto Rodrigo y los Harkonnetas &#8211; Especial Dune</title>
+		<link>http://errordeconexion.com/ep033-alberto-rodrigo-y-los-harkonnetas-especial-dune/</link>
+		<pubDate>Tue, 28 Feb 2017 00:28:05 +0000</pubDate>
+		<guid isPermaLink="false">http://errordeconexion.com/?p=284</guid>
+		<comments>http://errordeconexion.com/ep033-alberto-rodrigo-y-los-harkonnetas-especial-dune/#respond</comments>
+		<wfw:commentRss>http://errordeconexion.com/ep033-alberto-rodrigo-y-los-harkonnetas-especial-dune/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[episodios]]></category>
+		<category><![CDATA[Alberto Rodrigo]]></category>
+		<category><![CDATA[Alejandro Jodorowsky]]></category>
+		<category><![CDATA[Alien]]></category>
+		<category><![CDATA[Blade Runner]]></category>
+		<category><![CDATA[Chris Foss]]></category>
+		<category><![CDATA[Dan O’Bannon]]></category>
+		<category><![CDATA[David Lynch]]></category>
+		<category><![CDATA[Dune]]></category>
+		<category><![CDATA[Emilio Ruiz del Río]]></category>
+		<category><![CDATA[Frank Herbert]]></category>
+		<category><![CDATA[H. G. Giger]]></category>
+		<category><![CDATA[Jean Giraud]]></category>
+		<category><![CDATA[Kayle McLachlan]]></category>
+		<category><![CDATA[Kevin J. Anderson]]></category>
+		<category><![CDATA[Moebius]]></category>
+		<category><![CDATA[Ridley Scott]]></category>
+		<description>&lt;p&gt;Dune, de Frank Herbert: The Official Dune Website Dune en Wikipedia Dune, 50 years on: how a science fiction novel changed the world (The Guardian) Dune: Behind The Scene Jodorowsky’s Dune: Web Oficial En IMDB, trailer… Algunos artículos en Hipertextual o Gizmodo. Diseños de H. G. Giger para el Dune de Jodorowsky. “I want to be the highest … &lt;a href=&quot;http://errordeconexion.com/ep033-alberto-rodrigo-y-los-harkonnetas-especial-dune/&quot; class=&quot;more-link&quot;&gt;Seguir leyendo &lt;span class=&quot;screen-reader-text&quot;&gt;Ep033: Alberto Rodrigo y los Harkonnetas – Especial Dune&lt;/span&gt; &lt;span class=&quot;meta-nav&quot;&gt;→&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The post &lt;a href=&quot;http://errordeconexion.com/ep033-alberto-rodrigo-y-los-harkonnetas-especial-dune/&quot;&gt;Ep033: Alberto Rodrigo y los Harkonnetas – Especial Dune&lt;/a&gt; first appeared on &lt;a href=&quot;http://errordeconexion.com&quot;&gt;Error de Conexión&lt;/a&gt;.&lt;/p&gt;</description>
+		<content:encoded><![CDATA[<p><strong><em>Dune</em>, de Frank Herbert:</strong></p>
+<ul>
+<li><a href="http://www.dunenovels.com/">The Official Dune Website</a></li>
+<li><a href="https://es.wikipedia.org/wiki/Dune"><em>Dune</em> en Wikipedia</a></li>
+<li><a href="https://www.theguardian.com/books/2015/jul/03/dune-50-years-on-science-fiction-novel-world"><em>Dune, 50 years on: how a science fiction novel changed the world</em> (The Guardian)</a></li>
+<li><a href="http://www.duneinfo.com/">Dune: Behind The Scene</a></li>
+</ul>
+<p><strong><em>Jodorowsky&#8217;s Dune</em>:</strong></p>
+<ul>
+<li><a href="http://www.jodorowskysdune.com/">Web Oficial</a></li>
+<li>En&nbsp;<a href="http://www.imdb.com/title/tt1935156/">IMDB</a>, <a href="https://www.youtube.com/watch?v=jg4OCeSTL08">trailer</a>&#8230;</li>
+<li>Algunos artículos en&nbsp;<a href="https://hipertextual.com/2015/02/alejandro-jodorowsky-dune">Hipertextual</a>&nbsp;o <a href="http://es.gizmodo.com/la-dune-de-jodorowsky-y-moebius-los-disenos-y-arte-con-1764751012">Gizmodo</a>.</li>
+<li><a href="http://giger.com/page.php?page=144">Diseños de H. G. Giger para el <em>Dune</em> de Jodorowsky</a>.</li>
+<li><a href="https://dorjex.com/2014/06/19/i-want-to-be-the-highest-paid-actor-in-hollywood-dali/">“I want to be the highest paid actor in Hollywood”……….. Dali</a>.</li>
+<li><a href="http://io9.gizmodo.com/the-secret-link-between-dune-alien-and-blade-runner-1546677409">The secret link between Dune, Alien and Blade Runner</a>.</li>
+<li>Comics: <a href="https://es.wikipedia.org/wiki/El_Incal">El Incal</a>, <a href="https://es.wikipedia.org/wiki/La_casta_de_los_Metabarones">La Casta de los Metabarones</a>, <a href="https://es.wikipedia.org/wiki/The_Long_Tomorrow_(comic)">The Long Tomorrow</a>&#8230;</li>
+</ul>
+<p><strong><em>Dune</em>, de David Lynch:</strong></p>
+<ul>
+<li>En&nbsp;<a href="https://es.wikipedia.org/wiki/Dune_(pel%C3%ADcula)">Wikipedia</a>, <a href="http://www.imdb.com/title/tt0087182/">IMDB</a>&#8230;</li>
+<li><a href="https://www.youtube.com/watch?v=iU5auv6E6iU">Ridley Scott on <em>Dune</em></a>.</li>
+<li><a href="https://www.youtube.com/watch?v=EJQ4vCu-S0U">David Lynch on Return of the Jedi</a>.</li>
+<li><a href="http://www.fotogramas.es/Noticias-cine/Estas-son-las-fotos-del-rodaje-de-Dune-de-David-Lynch">Fotos del rodaje [Fotogramas]</a></li>
+<li><a href="http://www.slashfilm.com/david-lynch-and-frank-herbert-discuss-dune/">David Lynch and Frank Herbert Discuss Dune</a>.</li>
+<li><a href="https://www.youtube.com/watch?v=ZNtXfqoc6IA">Interview with David Lynch on Dune</a>.</li>
+<li><a href="https://vimeo.com/45798984">La nueva intro de la edición extendida</a>.</li>
+<li><a href="https://es.wikipedia.org/wiki/Emilio_Ruiz_del_R%C3%ADo">Emilio Ruiz del Río</a>&nbsp;y sus efectos especiales&nbsp;<a href="https://www.youtube.com/watch?v=LPKiviAm2kQ">[documental «El último truco»]</a>.</li>
+<li><a href="https://www.youtube.com/watch?v=pJ7YZXeI54s">Jodorowsky sobre Dune de David Lynch</a>.</li>
+</ul>
+<p><strong><em>Frank Herbert&#8217;s Dune</em>, mini serie de&nbsp;TV:&nbsp;</strong></p>
+<ul>
+<li><a href="http://www.imdb.com/title/tt0142032/">En IMDB</a>&nbsp;y <a href="https://es.wikipedia.org/wiki/Dune_(serie_de_televisi%C3%B3n)">en Wikipedia</a>.</li>
+<li>En YouTube <a href="https://www.youtube.com/watch?v=NpNYs_NhiEI">[Parte 1]</a>&nbsp;<a href="https://www.youtube.com/watch?v=_nY2OWqDOiM">[Parte 2]</a>&nbsp;<a href="https://www.youtube.com/watch?v=TlROi0QLFyg">[Parte 3]</a></li>
+</ul>
+<p><strong>El futuro Dune&nbsp;de Denis Villeneuve:</strong></p>
+<ul>
+<li><a href="http://variety.com/2016/film/news/legendary-dune-frank-herbert-1201923648/">Legendary Lands Rights to Classic Sci-Fi Novel ‘Dune’</a></li>
+<li><a href="http://www.theverge.com/2017/2/1/14468876/dune-reboot-denis-villeneuve-director-official">Arrival director Denis Villeneuve is making the upcoming Dune reboot</a></li>
+</ul>
+<p><a href="https://open.spotify.com/user/caban-es/playlist/717s0XFXJwab6utUHJifOr"><strong>[La música del episodio en Spotify]</strong></a></p><p>The post <a href="http://errordeconexion.com/ep033-alberto-rodrigo-y-los-harkonnetas-especial-dune/">Ep033: Alberto Rodrigo y los Harkonnetas – Especial Dune</a> first appeared on <a href="http://errordeconexion.com">Error de Conexión</a>.</p>]]></content:encoded>
+		<enclosure url="http://media.blubrry.com/errordeconexion/errordeconexion.com/episodes/EDC_Ep033.mp3" length="32424427" type="audio/mpeg" />
+		<itunes:subtitle>Dune, de Frank Herbert: The Official Dune Website Dune en Wikipedia Dune, 50 years on: how a science fiction novel changed the world (The Guardian) Dune: Behind The Scene Jodorowsky’s Dune: Web Oficial En IMDB,</itunes:subtitle>
+		<itunes:summary>Dune, de Frank Herbert: The Official Dune Website Dune en Wikipedia Dune, 50 years on: how a science fiction novel changed the world (The Guardian) Dune: Behind The Scene Jodorowsky’s Dune: Web Oficial En IMDB, trailer… Algunos artículos en Hipertextual o Gizmodo. Diseños de H. G. Giger para el Dune de Jodorowsky. “I want to be the highest … Seguir leyendo Ep033: Alberto Rodrigo y los Harkonnetas – Especial Dune →</itunes:summary>
+		<itunes:author>Nahúm García y Andrés Cabanes</itunes:author>
+		<itunes:image href="http://errordeconexion.com/wp-content/uploads/powerpress/Error_de_Conexion_Logo_v2_3000.jpg" />
+		<itunes:season>3</itunes:season>
+		<itunes:episode>33</itunes:episode>
+		<itunes:title>Ep033: Alberto Rodrigo y los Harkonnetas - Especial Dune</itunes:title>
+		<itunes:duration>1:03:28</itunes:duration>
+		</item>
+	<item>
+		<title>Ep032: A Teo le trollean</title>
+		<link>http://errordeconexion.com/ep032-a-teo-le-trollean/</link>
+		<pubDate>Mon, 20 Feb 2017 19:51:57 +0000</pubDate>
+		<guid isPermaLink="false">http://errordeconexion.com/?p=280</guid>
+		<comments>http://errordeconexion.com/ep032-a-teo-le-trollean/#respond</comments>
+		<wfw:commentRss>http://errordeconexion.com/ep032-a-teo-le-trollean/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[episodios]]></category>
+		<category><![CDATA[años 90]]></category>
+		<category><![CDATA[BBC America]]></category>
+		<category><![CDATA[Chamarilero]]></category>
+		<category><![CDATA[Denis Villeneuve]]></category>
+		<category><![CDATA[Dirk Gently]]></category>
+		<category><![CDATA[Discoplay]]></category>
+		<category><![CDATA[Donald Trump]]></category>
+		<category><![CDATA[Dune]]></category>
+		<category><![CDATA[El Juego de Hugo]]></category>
+		<category><![CDATA[Elige tu propia aventura]]></category>
+		<category><![CDATA[Hematocrítico]]></category>
+		<category><![CDATA[HiXop]]></category>
+		<category><![CDATA[Legends of Hemato]]></category>
+		<category><![CDATA[Memes]]></category>
+		<category><![CDATA[Teo]]></category>
+		<category><![CDATA[The Get Down]]></category>
+		<category><![CDATA[The Netherlands Second]]></category>
+		<category><![CDATA[Tiendas Tipo]]></category>
+		<category><![CDATA[timunmas]]></category>
+		<category><![CDATA[TrumpDraws]]></category>
+		<category><![CDATA[venta por catálogo]]></category>
+		<description>&lt;p&gt;Venta por catálogo en los 90: Tipo / Discoplay / HitXop Chamarilero Colección de novelas infantiles “Elige tu propia aventura” Timunmas y los libros de Teo Legends of Hemato, de @hematocrítico: [Vol. 1] [Vol. 2] [Vol. 3] El Juego de Hugo, juego de plataformas por teléfono en directo por la televisión Hugo Retro Manía, para iOS y … &lt;a href=&quot;http://errordeconexion.com/ep032-a-teo-le-trollean/&quot; class=&quot;more-link&quot;&gt;Seguir leyendo &lt;span class=&quot;screen-reader-text&quot;&gt;Ep032: A Teo le trollean&lt;/span&gt; &lt;span class=&quot;meta-nav&quot;&gt;→&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The post &lt;a href=&quot;http://errordeconexion.com/ep032-a-teo-le-trollean/&quot;&gt;Ep032: A Teo le trollean&lt;/a&gt; first appeared on &lt;a href=&quot;http://errordeconexion.com&quot;&gt;Error de Conexión&lt;/a&gt;.&lt;/p&gt;</description>
+		<content:encoded><![CDATA[<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Venta por catálogo en los 90: </span><a href="http://www.todocoleccion.net/coleccionismo-revistas-periodicos/revista-catalogo-tiendas-tipo-numero-284-septiembre-2015~x58398851"><span style="font-weight: 400;">Tipo</span></a><span style="font-weight: 400;"> / </span><a href="http://www.discoplay.info/"><span style="font-weight: 400;">Discoplay</span></a><span style="font-weight: 400;"> / </span><a href="https://www.milanuncios.com/revistas/revista-hit-xop-185965630.htm"><span style="font-weight: 400;">HitXop</span></a></li>
+<li style="font-weight: 400;"><a href="http://dle.rae.es/?id=8UysBrH"><span style="font-weight: 400;">Chamarilero</span></a></li>
+<li style="font-weight: 400;"><a href="https://es.wikipedia.org/wiki/Elige_tu_propia_aventura"><span style="font-weight: 400;">Colección de novelas infantiles “Elige tu propia aventura”</span></a></li>
+<li style="font-weight: 400;"><a href="https://es.wikipedia.org/wiki/Timunmas"><span style="font-weight: 400;">Timunmas</span></a><span style="font-weight: 400;"> y </span><a href="http://www.teo.es/"><span style="font-weight: 400;">los libros de Teo</span></a></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;"><em>Legends of Hemato</em>, de&nbsp;</span><span style="font-weight: 400;"><a href="https://twitter.com/hematocritico">@hematocrítico</a>:&nbsp;</span><span style="font-weight: 400;">[</span><a href="https://twitter.com/i/moments/816386205373911040"><span style="font-weight: 400;">Vol. 1</span></a><span style="font-weight: 400;">] [</span><a href="https://twitter.com/i/moments/825081042470051845"><span style="font-weight: 400;">Vol. 2</span></a><span style="font-weight: 400;">] [</span><a href="https://twitter.com/i/moments/827247283624345601"><span style="font-weight: 400;">Vol. 3</span></a><span style="font-weight: 400;">]</span></li>
+<li style="font-weight: 400;"><a href="http://blogs.20minutos.es/videojuegos/2009/07/27/hugo-troll-del-telecupain/"><span style="font-weight: 400;">El Juego de Hugo, juego de plataformas por teléfono en directo por la televisión</span></a></li>
+<li style="font-weight: 400;"><a href="https://hugogames.com/games/retro-mania/"><span style="font-weight: 400;">Hugo Retro Manía, para iOS y Android</span></a></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Memes de Trump: </span><a href="https://twitter.com/TrumpDraws"><span style="font-weight: 400;">@TrumpDraws</span></a><span style="font-weight: 400;">, </span><a href="http://www.vanityfair.com/hollywood/2017/02/donald-trump-parody-videos"><span style="font-weight: 400;">The Netherlands Second!</span></a></li>
+<li style="font-weight: 400;"><a href="http://variety.com/2016/tv/features/the-get-down-netflix-baz-luhrmann-production-troubles-1201822679/"><span style="font-weight: 400;">The Get Down, la carísima serie de Baz Luhrmann</span></a></li>
+<li style="font-weight: 400;"><a href="https://www.youtube.com/watch?v=GEVaVuDovuc"><span style="font-weight: 400;">Dirk Gently&#8217;s Holistic Detective Agency</span></a></li>
+<li style="font-weight: 400;"><a href="http://www.bbcamerica.com/"><span style="font-weight: 400;">BBC América</span></a></li>
+<li style="font-weight: 400;"><a href="http://www.theverge.com/2017/2/1/14468876/dune-reboot-denis-villeneuve-director-official"><span style="font-weight: 400;">Denis Villeneuve, dirigirá el reboot de Dune</span></a></li>
+</ul>
+<p>&nbsp;</p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;"><a href="https://open.spotify.com/user/caban-es/playlist/230gHSRUgrxDVzOAmUOHIL">La música del episodio</a></span></li>
+</ul><p>The post <a href="http://errordeconexion.com/ep032-a-teo-le-trollean/">Ep032: A Teo le trollean</a> first appeared on <a href="http://errordeconexion.com">Error de Conexión</a>.</p>]]></content:encoded>
+		<enclosure url="http://media.blubrry.com/errordeconexion/errordeconexion.com/episodes/EDC_Ep032.mp3" length="18793277" type="audio/mpeg" />
+		<itunes:subtitle>Venta por catálogo en los 90: Tipo / Discoplay / HitXop Chamarilero Colección de novelas infantiles “Elige tu propia aventura” Timunmas y los libros de Teo Legends of Hemato, de @hematocrítico: [Vol. 1] [Vol. 2] [Vol. 3] El Juego de Hugo,</itunes:subtitle>
+		<itunes:summary>Venta por catálogo en los 90: Tipo / Discoplay / HitXop Chamarilero Colección de novelas infantiles “Elige tu propia aventura” Timunmas y los libros de Teo Legends of Hemato, de @hematocrítico: [Vol. 1] [Vol. 2] [Vol. 3] El Juego de Hugo, juego de plataformas por teléfono en directo por la televisión Hugo Retro Manía, para iOS y … Seguir leyendo Ep032: A Teo le trollean →</itunes:summary>
+		<itunes:author>Nahúm García y Andrés Cabanes</itunes:author>
+		<itunes:image href="http://errordeconexion.com/wp-content/uploads/powerpress/Error_de_Conexion_Logo_v2_3000.jpg" />
+		<itunes:season>3</itunes:season>
+		<itunes:episode>32</itunes:episode>
+		<itunes:title>Ep032: A Teo le trollean</itunes:title>
+		<itunes:duration>35:04</itunes:duration>
+		</item>
+	<item>
+		<title>Ep031: Los Zombievers contra Fernando Arrival &#8211; lo mejor de 2016 pt.2</title>
+		<link>http://errordeconexion.com/ep031-los-zombievers-contra-fernando-arrival-lo-mejor-de-2016-pt-2/</link>
+		<pubDate>Sun, 05 Feb 2017 18:19:41 +0000</pubDate>
+		<guid isPermaLink="false">http://errordeconexion.com/?p=277</guid>
+		<comments>http://errordeconexion.com/ep031-los-zombievers-contra-fernando-arrival-lo-mejor-de-2016-pt-2/#respond</comments>
+		<wfw:commentRss>http://errordeconexion.com/ep031-los-zombievers-contra-fernando-arrival-lo-mejor-de-2016-pt-2/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[episodios]]></category>
+		<category><![CDATA[Amazon prime video]]></category>
+		<category><![CDATA[arrival]]></category>
+		<category><![CDATA[batman vs superman]]></category>
+		<category><![CDATA[berritxu]]></category>
+		<category><![CDATA[Black Mirror]]></category>
+		<category><![CDATA[capitán América]]></category>
+		<category><![CDATA[carol]]></category>
+		<category><![CDATA[crisis in 6 scenes]]></category>
+		<category><![CDATA[dead pool]]></category>
+		<category><![CDATA[dr strange]]></category>
+		<category><![CDATA[Game Of Thrones]]></category>
+		<category><![CDATA[hobo]]></category>
+		<category><![CDATA[la la land]]></category>
+		<category><![CDATA[luke cage]]></category>
+		<category><![CDATA[neon demon]]></category>
+		<category><![CDATA[Netflix]]></category>
+		<category><![CDATA[resident evil]]></category>
+		<category><![CDATA[Rogue One]]></category>
+		<category><![CDATA[Star Trek]]></category>
+		<category><![CDATA[stranger things]]></category>
+		<category><![CDATA[suicide squad]]></category>
+		<category><![CDATA[the night of]]></category>
+		<category><![CDATA[the OA]]></category>
+		<category><![CDATA[the wailing]]></category>
+		<category><![CDATA[train to Busan]]></category>
+		<category><![CDATA[VR]]></category>
+		<category><![CDATA[west world]]></category>
+		<category><![CDATA[x-men]]></category>
+		<category><![CDATA[young pope]]></category>
+		<description>&lt;p&gt;El loro Berritxu El fail de las pantallas curvas Resident Evil para Play Station VR El año de Netflix La llegada de HBO y Amazon Prime Video a España Manchester by The Sea de Amazon, candidata al Oscar   Películas Carol (2015) Neon Demon Arrival Train To Busan The Wailing La La Land (y sus … &lt;a href=&quot;http://errordeconexion.com/ep031-los-zombievers-contra-fernando-arrival-lo-mejor-de-2016-pt-2/&quot; class=&quot;more-link&quot;&gt;Seguir leyendo &lt;span class=&quot;screen-reader-text&quot;&gt;Ep031: Los Zombievers contra Fernando Arrival – lo mejor de 2016 pt.2&lt;/span&gt; &lt;span class=&quot;meta-nav&quot;&gt;→&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The post &lt;a href=&quot;http://errordeconexion.com/ep031-los-zombievers-contra-fernando-arrival-lo-mejor-de-2016-pt-2/&quot;&gt;Ep031: Los Zombievers contra Fernando Arrival – lo mejor de 2016 pt.2&lt;/a&gt; first appeared on &lt;a href=&quot;http://errordeconexion.com&quot;&gt;Error de Conexión&lt;/a&gt;.&lt;/p&gt;</description>
+		<content:encoded><![CDATA[<ul>
+<li style="font-weight: 400;"><a href="https://www.youtube.com/channel/UCnykfmDjJdCJX9FJGPGMIZg"><span style="font-weight: 400;">El loro Berritxu</span></a></li>
+<li style="font-weight: 400;"><a href="http://www.theverge.com/circuitbreaker/2017/1/30/14439362/samsung-curved-tv-review-un40k6250af-mistake"><span style="font-weight: 400;">El fail de las pantallas curvas</span></a></li>
+<li style="font-weight: 400;"><a href="https://www.youtube.com/watch?v=NN5HHjRIUq4"><span style="font-weight: 400;">Resident Evil para Play Station VR</span></a></li>
+<li style="font-weight: 400;"><a href="https://www.xataka.com/streaming/netflix-en-espana-un-ano-despues-el-doble-de-catalogo-para-dejar-atras-a-la-competencia"><span style="font-weight: 400;">El año de Netflix</span></a></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">La llegada de </span><a href="https://www.xataka.com/streaming/hbo-espana-un-mes-despues-merece-la-pena-renovar-la-suscripcion"><span style="font-weight: 400;">HBO</span></a><span style="font-weight: 400;"> y </span><a href="https://hipertextual.com/2016/12/amazon-prime-video-espana"><span style="font-weight: 400;">Amazon Prime Video</span></a><span style="font-weight: 400;"> a España</span></li>
+<li style="font-weight: 400;"><a href="http://omicrono.elespanol.com/2017/01/nominaciones-a-los-oscar/"><span style="font-weight: 400;">Manchester by The Sea de Amazon, candidata al Oscar</span></a></li>
+</ul>
+<p>&nbsp;</p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Películas</span>
+<ul>
+<li style="font-weight: 400;"><a href="http://www.imdb.com/title/tt2402927"><span style="font-weight: 400;">Carol</span></a><span style="font-weight: 400;"> (2015)</span></li>
+<li style="font-weight: 400;"><a href="http://www.imdb.com/title/tt1974419/"><span style="font-weight: 400;">Neon Demon</span></a></li>
+<li style="font-weight: 400;"><a href="http://www.imdb.com/title/tt2543164/"><span style="font-weight: 400;">Arrival</span></a></li>
+<li style="font-weight: 400;"><a href="http://www.imdb.com/title/tt5700672"><span style="font-weight: 400;">Train To Busan</span></a></li>
+<li style="font-weight: 400;"><a href="http://www.imdb.com/title/tt5215952"><span style="font-weight: 400;">The Wailing</span></a></li>
+<li style="font-weight: 400;"><a href="http://www.imdb.com/title/tt3783958"><span style="font-weight: 400;">La La Land</span></a><span style="font-weight: 400;"> (</span><a href="https://vimeo.com/200550228"><span style="font-weight: 400;">y sus homenajes</span></a><span style="font-weight: 400;">)</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">PACK SUPERHEROES:</span>
+<ul>
+<li style="font-weight: 400;"><a href="http://www.imdb.com/title/tt1431045/?ref_=fn_al_tt_5"><span style="font-weight: 400;">Dead Pool</span></a></li>
+<li style="font-weight: 400;"><a href="http://www.imdb.com/title/tt3498820"><span style="font-weight: 400;">Capitán América: Civil War</span></a></li>
+<li style="font-weight: 400;"><a href="http://www.imdb.com/title/tt2975590"><span style="font-weight: 400;">Batman vs Superman</span></a></li>
+<li style="font-weight: 400;"><a href="http://www.imdb.com/title/tt1386697/"><span style="font-weight: 400;">Suicide Squad</span></a></li>
+<li style="font-weight: 400;"><a href="http://www.imdb.com/title/tt1211837"><span style="font-weight: 400;">Doctor Strange</span></a></li>
+<li style="font-weight: 400;"><a href="http://www.imdb.com/title/tt3385516"><span style="font-weight: 400;">X-Men Apocalipsis</span></a></li>
+</ul>
+</li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">PACK GALACTICO:</span>
+<ul>
+<li style="font-weight: 400;"><a href="http://www.imdb.com/title/tt3748528/"><span style="font-weight: 400;">Rogue One</span></a></li>
+<li style="font-weight: 400;"><a href="http://www.imdb.com/title/tt2660888"><span style="font-weight: 400;">Star Trek Beyond</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<p>&nbsp;</p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Series 2016:</span>
+<ul>
+<li style="font-weight: 400;"><a href="http://www.imdb.com/title/tt4354616/"><span style="font-weight: 400;">Crisis in 6 Scenes</span></a></li>
+<li style="font-weight: 400;"><a href="http://www.imdb.com/title/tt0475784"><span style="font-weight: 400;">WestWorld</span></a></li>
+<li style="font-weight: 400;"><a href="http://www.imdb.com/title/tt2085059/?ref_=nv_sr_1"><span style="font-weight: 400;">Black Mirror</span></a></li>
+<li style="font-weight: 400;"><a href="http://www.imdb.com/title/tt0944947/"><span style="font-weight: 400;">Game Of Thrones</span></a></li>
+<li style="font-weight: 400;"><a href="http://www.imdb.com/title/tt3655448/"><span style="font-weight: 400;">The Young Pope</span></a></li>
+<li style="font-weight: 400;"><a href="http://www.imdb.com/title/tt4574334"><span style="font-weight: 400;">Stranger Things</span></a></li>
+<li style="font-weight: 400;"><a href="http://www.imdb.com/title/tt4635282"><span style="font-weight: 400;">The OA</span></a></li>
+<li style="font-weight: 400;"><a href="http://www.imdb.com/title/tt2401256"><span style="font-weight: 400;">The Night Of</span></a></li>
+<li style="font-weight: 400;"><a href="http://www.imdb.com/title/tt3322314"><span style="font-weight: 400;">Luke Cage</span></a></li>
+</ul>
+</li>
+</ul>
+<p>&nbsp;</p>
+<ul>
+<li style="font-weight: 400;"><a href="https://open.spotify.com/user/caban-es/playlist/7LwLZc3eQK2wBadGxNoS5W"><span style="font-weight: 400;">La música de este episodio [Spotify]</span></a></li>
+</ul>
+<p>&nbsp;</p><p>The post <a href="http://errordeconexion.com/ep031-los-zombievers-contra-fernando-arrival-lo-mejor-de-2016-pt-2/">Ep031: Los Zombievers contra Fernando Arrival – lo mejor de 2016 pt.2</a> first appeared on <a href="http://errordeconexion.com">Error de Conexión</a>.</p>]]></content:encoded>
+		<enclosure url="http://media.blubrry.com/errordeconexion/errordeconexion.com/episodes/EDC_Ep031.mp3" length="31067328" type="audio/mpeg" />
+		<itunes:subtitle>El loro Berritxu El fail de las pantallas curvas Resident Evil para Play Station VR El año de Netflix La llegada de HBO y Amazon Prime Video a España Manchester by The Sea de Amazon, candidata al Oscar   Películas Carol (2015) Neon Demon Arrival Train ...</itunes:subtitle>
+		<itunes:summary>El loro Berritxu El fail de las pantallas curvas Resident Evil para Play Station VR El año de Netflix La llegada de HBO y Amazon Prime Video a España Manchester by The Sea de Amazon, candidata al Oscar   Películas Carol (2015) Neon Demon Arrival Train To Busan The Wailing La La Land (y sus … Seguir leyendo Ep031: Los Zombievers contra Fernando Arrival – lo mejor de 2016 pt.2 →</itunes:summary>
+		<itunes:author>Nahúm García y Andrés Cabanes</itunes:author>
+		<itunes:image href="http://errordeconexion.com/wp-content/uploads/powerpress/Error_de_Conexion_Logo_v2_3000.jpg" />
+		<itunes:season>3</itunes:season>
+		<itunes:episode>31</itunes:episode>
+		<itunes:title>Ep031: Los Zombievers contra Fernando Arrival - lo mejor de 2016 pt.2</itunes:title>
+		<itunes:duration>1:00:39</itunes:duration>
+		</item>
+	<item>
+		<title>Ep030: Alienícolas Cage y lo mejor de 2016 pt.1</title>
+		<link>http://errordeconexion.com/ep030-alienicolas-cage-y-lo-mejor-de-2016-pt-1/</link>
+		<pubDate>Sat, 28 Jan 2017 21:05:55 +0000</pubDate>
+		<guid isPermaLink="false">http://errordeconexion.com/?p=262</guid>
+		<comments>http://errordeconexion.com/ep030-alienicolas-cage-y-lo-mejor-de-2016-pt-1/#respond</comments>
+		<wfw:commentRss>http://errordeconexion.com/ep030-alienicolas-cage-y-lo-mejor-de-2016-pt-1/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[episodios]]></category>
+		<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Bon Iver]]></category>
+		<category><![CDATA[brexit]]></category>
+		<category><![CDATA[cast mccombs]]></category>
+		<category><![CDATA[coches voladores]]></category>
+		<category><![CDATA[drug dealer]]></category>
+		<category><![CDATA[eerie Wanda]]></category>
+		<category><![CDATA[MacBooks]]></category>
+		<category><![CDATA[Marissa Nadler]]></category>
+		<category><![CDATA[nicholas cage]]></category>
+		<category><![CDATA[outer limits]]></category>
+		<category><![CDATA[Pajaro Sunrise]]></category>
+		<category><![CDATA[podcasts]]></category>
+		<category><![CDATA[Putin]]></category>
+		<category><![CDATA[Rogue One]]></category>
+		<category><![CDATA[rusos blancos]]></category>
+		<category><![CDATA[Second Life]]></category>
+		<category><![CDATA[VR]]></category>
+		<description>&lt;p&gt;Brexit Alec Baldwin como Donald Trump en SNL Putin Motivacional The Twilight Zone [original] [remake] / The Outer Limits [original] [remake] / Amazing Stories Alienícolas Nicholas Cage es un vampiro Nuestro método obsoleto de podcasting Las cloacas del estado El mundo VR Second life Coches voladores de Airbus Rogue One Nuevos iMacs y MacBooks   … &lt;a href=&quot;http://errordeconexion.com/ep030-alienicolas-cage-y-lo-mejor-de-2016-pt-1/&quot; class=&quot;more-link&quot;&gt;Seguir leyendo &lt;span class=&quot;screen-reader-text&quot;&gt;Ep030: Alienícolas Cage y lo mejor de 2016 pt.1&lt;/span&gt; &lt;span class=&quot;meta-nav&quot;&gt;→&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The post &lt;a href=&quot;http://errordeconexion.com/ep030-alienicolas-cage-y-lo-mejor-de-2016-pt-1/&quot;&gt;Ep030: Alienícolas Cage y lo mejor de 2016 pt.1&lt;/a&gt; first appeared on &lt;a href=&quot;http://errordeconexion.com&quot;&gt;Error de Conexión&lt;/a&gt;.&lt;/p&gt;</description>
+		<content:encoded><![CDATA[<ul>
+<li>Brexit</li>
+<li style="font-weight: 400;"><a href="https://www.youtube.com/watch?v=pOXx3Hr3vAY">Alec Baldwin como Donald Trump en SNL</a></li>
+<li style="font-weight: 400;"><a href="https://www.instagram.com/putinspiration/"><span style="font-weight: 400;">Putin Motivacional</span></a></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">The Twilight Zone [<a href="http://www.imdb.com/title/tt0052520/">original</a>] [<a href="http://www.imdb.com/title/tt0088634/">remake</a>] / The Outer Limits [<a href="http://www.imdb.com/title/tt0056777/">original</a>] [<a href="http://www.imdb.com/title/tt0112111/">remake</a>] / <a href="http://www.imdb.com/title/tt0088478/">Amazing Stories</a></span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Alienícolas</span></li>
+<li style="font-weight: 400;"><a href="http://www.hollywoodreporter.com/news/nicolas-cage-vampire-photo-sale-236543"><span style="font-weight: 400;">Nicholas Cage es un vampiro</span></a></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Nuestro método obsoleto de podcasting</span></li>
+<li style="font-weight: 400;"><a href="http://www.podiumpodcast.com/v-las-cloacas-del-estado/"><span style="font-weight: 400;">Las cloacas del estado</span></a></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">El mundo VR</span></li>
+<li style="font-weight: 400;"><a href="http://secondlife.com/"><span style="font-weight: 400;">Second life</span></a></li>
+<li style="font-weight: 400;"><a href="http://www.reuters.com/article/us-airbus-group-tech-idUSKBN1501DM"><span style="font-weight: 400;">Coches voladores de Airbus</span></a></li>
+<li style="font-weight: 400;"><a href="http://www.imdb.com/title/tt3748528/"><span style="font-weight: 400;">Rogue One</span></a></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Nuevos <a href="http://www.apple.com/es/imac/">iMacs</a> y <a href="http://www.apple.com/es/macbook-pro/">MacBooks</a></span></li>
+</ul>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">Discos:</span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Drugdealer &#8211; The End Of Comedy [<a href="https://play.spotify.com/album/7sE5BL81qaw47AiiH9rV2H">Spotify</a>] [<a href="https://itun.es/es/mSnBdb">Apple Music</a>]</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Marissa Nadler &#8211; Bury Your Name&nbsp;[<a href="https://open.spotify.com/album/20aRjyw9Ghvx7rCkzfeoXl">Spotify</a>] [<a href="https://itun.es/es/qsvUeb">Apple Music</a>]</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Bon Iver &#8211; 22, A Million [<a href="https://play.spotify.com/album/1PgfRdl3lPyACfUGH4pquG">Spotify</a>] [<a href="https://itun.es/es/kW-aeb">Apple Music</a>]</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Eerie Wanda &#8211; Hum [<a href="https://play.spotify.com/album/4ecYg2xM5Z5SvziPaRBAOc">Spotify</a>] [<a href="https://itun.es/es/0E0ucb">Apple Music</a>]</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Kase O &#8211; El Círculo [<a href="https://play.spotify.com/album/5HTtQMQxpNk64Uj1zXjufs">Spotify</a>] [<a href="https://itun.es/es/TK1Web">Apple Music</a>]</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Wild Beasts &#8211; Boy King&nbsp;[<a href="https://play.spotify.com/album/4kL8AfsxFmodxzdtknDAmV">Spotify</a>] [<a href="https://itun.es/es/TPbKcb">Apple Music</a>]</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Mustard &#8211; Like The Sauce EP&nbsp;[<a href="https://play.spotify.com/album/54YR6x8Kq3yeXSVhkzMHnk">Spotify</a>] [<a href="https://itun.es/es/56y0eb">Apple Music</a>]</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Pajaro Sunrise &#8211; The Collapse&nbsp;[<a href="https://play.spotify.com/album/33bYGL8eGosopUHr0jHpoW">Spotify</a>] [<a href="https://itun.es/es/F0gifb">Apple Music</a>]</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Cate Le Bon &#8211; Crab Day&nbsp;[<a href="https://play.spotify.com/album/5g9wPiQed8ITgSmKcFq3ry">Spotify</a>] [<a href="https://itun.es/es/Yionab">Apple Music</a>]</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">El Perro del Mar &#8211; KoKoro&nbsp;[<a href="https://play.spotify.com/album/0EKQnVHxau2eqaqyhiBLTb">Spotify</a>] [<a href="https://itun.es/es/99Xidb">Apple Music</a>]</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Rusos Blancos &#8211; Museo del Romanticismo&nbsp;[<a href="https://play.spotify.com/album/6Cf6QyBES47dgEpC8LS2CT">Spotify</a>] [<a href="https://itun.es/es/X4zNfb">Apple Music</a>]</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Sean Nicolas Savage &#8211; Magnificent Fist&nbsp;[<a href="https://play.spotify.com/album/2Uf0tOcSsf0uhsLbT0hfEu">Spotify</a>] [<a href="https://itun.es/es/Xjtyeb">Apple Music</a>]</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">case/lang/veirs &#8211; case/lang/veirs&nbsp;[<a href="https://open.spotify.com/album/0U5U4AU94YjYY2QoOpmwfN">Spotify</a>] [<a href="https://itun.es/es/T8PTab">Apple Music</a>]</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Cass McCombs &#8211; Mangy Love&nbsp;[<a href="https://play.spotify.com/album/2gBR8Ql9GjUrNIsX97sFld">Spotify</a>] [<a href="https://itun.es/es/Xjtyeb">Apple Music</a>]</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Michael Kiwanuka &#8211; Love and Hate&nbsp;[<a href="https://play.spotify.com/album/71kreixSBb0aUsk2gx0lcA">Spotify</a>] [<a href="https://itun.es/es/Izoqbb">Apple Music</a>]</span></li>
+</ul>
+<p><a href="https://open.spotify.com/user/caban-es/playlist/7nVQCoFOQb67qvud2FqkWC">[PLAYLIST EP.30 SPOTIFY]</a></p><p>The post <a href="http://errordeconexion.com/ep030-alienicolas-cage-y-lo-mejor-de-2016-pt-1/">Ep030: Alienícolas Cage y lo mejor de 2016 pt.1</a> first appeared on <a href="http://errordeconexion.com">Error de Conexión</a>.</p>]]></content:encoded>
+		<enclosure url="http://media.blubrry.com/errordeconexion/errordeconexion.com/episodes/EDC_Ep030.mp3" length="36665861" type="audio/mpeg" />
+		<itunes:subtitle>Brexit Alec Baldwin como Donald Trump en SNL Putin Motivacional The Twilight Zone [original] [remake] / The Outer Limits [original] [remake] / Amazing Stories Alienícolas Nicholas Cage es un vampiro Nuestro método obsoleto de podcasting Las cloacas del...</itunes:subtitle>
+		<itunes:summary>Brexit Alec Baldwin como Donald Trump en SNL Putin Motivacional The Twilight Zone [original] [remake] / The Outer Limits [original] [remake] / Amazing Stories Alienícolas Nicholas Cage es un vampiro Nuestro método obsoleto de podcasting Las cloacas del estado El mundo VR Second life Coches voladores de Airbus Rogue One Nuevos iMacs y MacBooks   … Seguir leyendo Ep030: Alienícolas Cage y lo mejor de 2016 pt.1 →</itunes:summary>
+		<itunes:author>Nahúm García y Andrés Cabanes</itunes:author>
+		<itunes:image href="http://errordeconexion.com/wp-content/uploads/powerpress/Error_de_Conexion_Logo_v2_3000.jpg" />
+		<itunes:season>3</itunes:season>
+		<itunes:episode>30</itunes:episode>
+		<itunes:title>Ep030: Alienícolas Cage y lo mejor de 2016 pt.1</itunes:title>
+		<itunes:duration>1:12:19</itunes:duration>
+		</item>
+	<item>
+		<title>Ep029: Rejuveniendo el Podcasting</title>
+		<link>http://errordeconexion.com/ep029-rejuveniendo-el-podcasting/</link>
+		<pubDate>Tue, 21 Jun 2016 07:02:38 +0000</pubDate>
+		<guid isPermaLink="false">http://errordeconexion.com/?p=252</guid>
+		<description>&lt;p&gt;Del #UniversoRockStars al E3: El último trabajo de Moby: 4 horas de música ambient para “hacer yoga, dormir, meditar o entrar en pánico”. Richard Melville, aka “Moby”, el primo descarriado del #UniversoRockStars y biznieto de Herman Melville, autor de Moby Dick. Las novedades de PlayStation VR en el E3 Nubla y Los Delirios de Von Sottendorff … &lt;a href=&quot;http://errordeconexion.com/ep029-rejuveniendo-el-podcasting/&quot; class=&quot;more-link&quot;&gt;Seguir leyendo &lt;span class=&quot;screen-reader-text&quot;&gt;Ep029: Rejuveniendo el Podcasting&lt;/span&gt; &lt;span class=&quot;meta-nav&quot;&gt;→&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The post &lt;a href=&quot;http://errordeconexion.com/ep029-rejuveniendo-el-podcasting/&quot;&gt;Ep029: Rejuveniendo el Podcasting&lt;/a&gt; first appeared on &lt;a href=&quot;http://errordeconexion.com&quot;&gt;Error de Conexión&lt;/a&gt;.&lt;/p&gt;</description>
+		<enclosure url="http://media.blubrry.com/errordeconexion/errordeconexion.com/episodes/EDC_Ep029.mp3" length="23301180" type="audio/mpeg" />
+		<itunes:subtitle>Del #UniversoRockStars al E3: El último trabajo de Moby: 4 horas de música ambient para “hacer yoga, dormir, meditar o entrar en pánico”. Richard Melville, aka “Moby”, el primo descarriado del #UniversoRockStars y biznieto de Herman Melville,</itunes:subtitle>
+		<itunes:summary>Del #UniversoRockStars al E3: El último trabajo de Moby: 4 horas de música ambient para “hacer yoga, dormir, meditar o entrar en pánico”. Richard Melville, aka “Moby”, el primo descarriado del #UniversoRockStars y biznieto de Herman Melville, autor de Moby Dick. Las novedades de PlayStation VR en el E3 Nubla y Los Delirios de Von Sottendorff … Seguir leyendo Ep029: Rejuveniendo el Podcasting →</itunes:summary>
+		<itunes:author>Nahúm García y Andrés Cabanes</itunes:author>
+		<itunes:image href="http://errordeconexion.com/wp-content/uploads/powerpress/Error_de_Conexion_Logo_v2_3000.jpg" />
+		<itunes:season>2</itunes:season>
+		<itunes:episode>29</itunes:episode>
+		<itunes:title>Ep029: Rejuveniendo el Podcasting</itunes:title>
+		<itunes:duration>44:28</itunes:duration>
+		</item>
+	<item>
+		<title>Ep028: Universo RockStars</title>
+		<link>http://errordeconexion.com/ep028-universo-rockstars/</link>
+		<pubDate>Wed, 08 Jun 2016 05:36:58 +0000</pubDate>
+		<guid isPermaLink="false">http://errordeconexion.com/?p=244</guid>
+		<description>&lt;p&gt;Videojuegos en el móvil y la tableta: Fallout Shelter Alto’s Adventure Two Dots Futurama: Game of Drones Y, mientras tanto, en el Universo RockStars… Ross The Boss: de The Dictators a Manowar Bono se canta “Because The night” en el concierto de Bruce Sprinsteen en Dublín Bruce Sprinsgteen vino a España en la gira de … &lt;a href=&quot;http://errordeconexion.com/ep028-universo-rockstars/&quot; class=&quot;more-link&quot;&gt;Seguir leyendo &lt;span class=&quot;screen-reader-text&quot;&gt;Ep028: Universo RockStars&lt;/span&gt; &lt;span class=&quot;meta-nav&quot;&gt;→&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The post &lt;a href=&quot;http://errordeconexion.com/ep028-universo-rockstars/&quot;&gt;Ep028: Universo RockStars&lt;/a&gt; first appeared on &lt;a href=&quot;http://errordeconexion.com&quot;&gt;Error de Conexión&lt;/a&gt;.&lt;/p&gt;</description>
+		<enclosure url="http://media.blubrry.com/errordeconexion/errordeconexion.com/episodes/EDC_Ep028.mp3" length="19858231" type="audio/mpeg" />
+		<itunes:subtitle>Videojuegos en el móvil y la tableta: Fallout Shelter Alto’s Adventure Two Dots Futurama: Game of Drones Y, mientras tanto, en el Universo RockStars… Ross The Boss: de The Dictators a Manowar Bono se canta “Because The night” en el concierto de Bruce S...</itunes:subtitle>
+		<itunes:summary>Videojuegos en el móvil y la tableta: Fallout Shelter Alto’s Adventure Two Dots Futurama: Game of Drones Y, mientras tanto, en el Universo RockStars… Ross The Boss: de The Dictators a Manowar Bono se canta “Because The night” en el concierto de Bruce Sprinsteen en Dublín Bruce Sprinsgteen vino a España en la gira de … Seguir leyendo Ep028: Universo RockStars →</itunes:summary>
+		<itunes:author>Nahúm García y Andrés Cabanes</itunes:author>
+		<itunes:image href="http://errordeconexion.com/wp-content/uploads/powerpress/Error_de_Conexion_Logo_v2_3000.jpg" />
+		<itunes:season>2</itunes:season>
+		<itunes:episode>28</itunes:episode>
+		<itunes:title>Ep028: Universo RockStars</itunes:title>
+		<itunes:duration>37:18</itunes:duration>
+		</item>
+	<item>
+		<title>Ep027: Mindfullness Detox Bio</title>
+		<link>http://errordeconexion.com/ep027-mindfullness-detox-bio/</link>
+		<pubDate>Tue, 31 May 2016 08:43:46 +0000</pubDate>
+		<guid isPermaLink="false">http://errordeconexion.com/?p=235</guid>
+		<description>&lt;p&gt;Desconexión y series: Andrés se desconecta. “Los ovnis me salvaron la vida”. Recomendación: Contra el rebaño digital, de Jaron Lanier. Segundas temporadas SI que fueron buenas: True Detective, Fargo, Utopía. Preacher: [el comic] [la serie] [la adaptación]. Disney (Pixar, Marvel, Lucas…) se estrenarán en exclusiva en Netflix. Sobre la construcción del Universo Cinematográfico de Marvel. … &lt;a href=&quot;http://errordeconexion.com/ep027-mindfullness-detox-bio/&quot; class=&quot;more-link&quot;&gt;Seguir leyendo &lt;span class=&quot;screen-reader-text&quot;&gt;Ep027: Mindfullness Detox Bio&lt;/span&gt; &lt;span class=&quot;meta-nav&quot;&gt;→&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The post &lt;a href=&quot;http://errordeconexion.com/ep027-mindfullness-detox-bio/&quot;&gt;Ep027: Mindfullness Detox Bio&lt;/a&gt; first appeared on &lt;a href=&quot;http://errordeconexion.com&quot;&gt;Error de Conexión&lt;/a&gt;.&lt;/p&gt;</description>
+		<enclosure url="http://media.blubrry.com/errordeconexion/errordeconexion.com/episodes/EDC_Ep027.mp3" length="20147877" type="audio/mpeg" />
+		<itunes:subtitle>Desconexión y series: Andrés se desconecta. “Los ovnis me salvaron la vida”. Recomendación: Contra el rebaño digital, de Jaron Lanier. Segundas temporadas SI que fueron buenas: True Detective, Fargo, Utopía.</itunes:subtitle>
+		<itunes:summary>Desconexión y series: Andrés se desconecta. “Los ovnis me salvaron la vida”. Recomendación: Contra el rebaño digital, de Jaron Lanier. Segundas temporadas SI que fueron buenas: True Detective, Fargo, Utopía. Preacher: [el comic] [la serie] [la adaptación]. Disney (Pixar, Marvel, Lucas…) se estrenarán en exclusiva en Netflix. Sobre la construcción del Universo Cinematográfico de Marvel. … Seguir leyendo Ep027: Mindfullness Detox Bio →</itunes:summary>
+		<itunes:author>Nahúm García y Andrés Cabanes</itunes:author>
+		<itunes:image href="http://errordeconexion.com/wp-content/uploads/powerpress/Error_de_Conexion_Logo_v2_3000.jpg" />
+		<itunes:season>2</itunes:season>
+		<itunes:episode>27</itunes:episode>
+		<itunes:title>Ep027: Mindfullness Detox Bio</itunes:title>
+		<itunes:duration>37:54</itunes:duration>
+		</item>
+	<item>
+		<title>Ep026: Apple Watch&#8217;a&#8217;Say</title>
+		<link>http://errordeconexion.com/ep026-apple-watchasay/</link>
+		<pubDate>Tue, 17 May 2016 20:42:55 +0000</pubDate>
+		<guid isPermaLink="false">http://errordeconexion.com/?p=228</guid>
+		<description>&lt;p&gt;Nahúm no está contento con su Apple Watch (y no es el único) A Señora Emilcar tampoco le gusta el Apple Watch Radiohead estrenan video: Burn The Witch Proyectos alternativos de Johnny Greenwood (y Paul Thomas Anderson): Junun Junun [trailer] [iTunes] MUBI, uno de los primeros servicios de streaming europeos El fiasco de Soundcloud con … &lt;a href=&quot;http://errordeconexion.com/ep026-apple-watchasay/&quot; class=&quot;more-link&quot;&gt;Seguir leyendo &lt;span class=&quot;screen-reader-text&quot;&gt;Ep026: Apple Watch’a’Say&lt;/span&gt; &lt;span class=&quot;meta-nav&quot;&gt;→&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The post &lt;a href=&quot;http://errordeconexion.com/ep026-apple-watchasay/&quot;&gt;Ep026: Apple Watch’a’Say&lt;/a&gt; first appeared on &lt;a href=&quot;http://errordeconexion.com&quot;&gt;Error de Conexión&lt;/a&gt;.&lt;/p&gt;</description>
+		<enclosure url="http://media.blubrry.com/errordeconexion/errordeconexion.com/episodes/EDC_Ep026.mp3" length="21818041" type="audio/mpeg" />
+		<itunes:subtitle>Nahúm no está contento con su Apple Watch (y no es el único) A Señora Emilcar tampoco le gusta el Apple Watch Radiohead estrenan video: Burn The Witch Proyectos alternativos de Johnny Greenwood (y Paul Thomas Anderson): Junun Junun [trailer] [iTunes] M...</itunes:subtitle>
+		<itunes:summary>Nahúm no está contento con su Apple Watch (y no es el único) A Señora Emilcar tampoco le gusta el Apple Watch Radiohead estrenan video: Burn The Witch Proyectos alternativos de Johnny Greenwood (y Paul Thomas Anderson): Junun Junun [trailer] [iTunes] MUBI, uno de los primeros servicios de streaming europeos El fiasco de Soundcloud con … Seguir leyendo Ep026: Apple Watch’a’Say →</itunes:summary>
+		<itunes:author>Nahúm García y Andrés Cabanes</itunes:author>
+		<itunes:image href="http://errordeconexion.com/wp-content/uploads/powerpress/Error_de_Conexion_Logo_v2_3000.jpg" />
+		<itunes:season>2</itunes:season>
+		<itunes:episode>26</itunes:episode>
+		<itunes:title>Ep026: Apple Watch&#039;a&#039;Say</itunes:title>
+		<itunes:duration>41:23</itunes:duration>
+		</item>
+	<item>
+		<title>Ep025: EDC Civil War &#8211; #bandoandres #bandonahum</title>
+		<link>http://errordeconexion.com/ep025-edc-civil-war-bandoandres-bandonahum/</link>
+		<pubDate>Tue, 03 May 2016 18:36:25 +0000</pubDate>
+		<guid isPermaLink="false">http://errordeconexion.com/?p=220</guid>
+		<description>&lt;p&gt;Música para niños: Chumi Chuma (¡el primer grupo musical interdimensional!) Petit Pop (Xixon Sound allstars) Rolf &amp; Flor (The Pinker Tones, Barcelona) Billy Boom Band (La Sonrisa de Julia, Santander) Artistas con repertorio infantil: Christina Rosenvinge, Alondra Bentley… Grupos de y con niños: Candela y los Supremos, Furious Monkey House… Las estrellas: Cantajuegos, Los Pica … &lt;a href=&quot;http://errordeconexion.com/ep025-edc-civil-war-bandoandres-bandonahum/&quot; class=&quot;more-link&quot;&gt;Seguir leyendo &lt;span class=&quot;screen-reader-text&quot;&gt;Ep025: EDC Civil War – #bandoandres #bandonahum&lt;/span&gt; &lt;span class=&quot;meta-nav&quot;&gt;→&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The post &lt;a href=&quot;http://errordeconexion.com/ep025-edc-civil-war-bandoandres-bandonahum/&quot;&gt;Ep025: EDC Civil War – #bandoandres #bandonahum&lt;/a&gt; first appeared on &lt;a href=&quot;http://errordeconexion.com&quot;&gt;Error de Conexión&lt;/a&gt;.&lt;/p&gt;</description>
+		<enclosure url="http://media.blubrry.com/errordeconexion/errordeconexion.com/episodes/EDC_Ep025.mp3" length="21843770" type="audio/mpeg" />
+		<itunes:subtitle>Música para niños: Chumi Chuma (¡el primer grupo musical interdimensional!) Petit Pop (Xixon Sound allstars) Rolf &amp; Flor (The Pinker Tones, Barcelona) Billy Boom Band (La Sonrisa de Julia, Santander) Artistas con repertorio infantil: Christina Rosenvin...</itunes:subtitle>
+		<itunes:summary>Música para niños: Chumi Chuma (¡el primer grupo musical interdimensional!) Petit Pop (Xixon Sound allstars) Rolf &amp; Flor (The Pinker Tones, Barcelona) Billy Boom Band (La Sonrisa de Julia, Santander) Artistas con repertorio infantil: Christina Rosenvinge, Alondra Bentley… Grupos de y con niños: Candela y los Supremos, Furious Monkey House… Las estrellas: Cantajuegos, Los Pica … Seguir leyendo Ep025: EDC Civil War – #bandoandres #bandonahum →</itunes:summary>
+		<itunes:author>Nahúm García y Andrés Cabanes</itunes:author>
+		<itunes:image href="http://errordeconexion.com/wp-content/uploads/powerpress/Error_de_Conexion_Logo_v2_3000.jpg" />
+		<itunes:season>2</itunes:season>
+		<itunes:episode>25</itunes:episode>
+		<itunes:title>Ep025: EDC Civil War - #bandoandres #bandonahum</itunes:title>
+		<itunes:duration>41:26</itunes:duration>
+		</item>
+	<item>
+		<title>Ep024: Cliffjander Clander</title>
+		<link>http://errordeconexion.com/24-cliffjander-clander/</link>
+		<pubDate>Tue, 26 Apr 2016 17:26:26 +0000</pubDate>
+		<guid isPermaLink="false">http://errordeconexion.com/?p=180</guid>
+		<description>&lt;p&gt;Batman vs Superman: Batman vs Superman “Batman, el regreso del Caballero Oscuro” de Frank Miller Batman: The Dark Knight Returns (película de animación) Nuevos destinos de Turkish Airlines: Gotham y Metrópolis Deleted Scene from «Batman v Superman” Starring Jimmy Kimmel El Universo RockStars: El reboot de Guns ‘n’ Roses, juntos de nuevo 23 años después … &lt;a href=&quot;http://errordeconexion.com/24-cliffjander-clander/&quot; class=&quot;more-link&quot;&gt;Seguir leyendo &lt;span class=&quot;screen-reader-text&quot;&gt;Ep024: Cliffjander Clander&lt;/span&gt; &lt;span class=&quot;meta-nav&quot;&gt;→&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The post &lt;a href=&quot;http://errordeconexion.com/24-cliffjander-clander/&quot;&gt;Ep024: Cliffjander Clander&lt;/a&gt; first appeared on &lt;a href=&quot;http://errordeconexion.com&quot;&gt;Error de Conexión&lt;/a&gt;.&lt;/p&gt;</description>
+		<enclosure url="http://media.blubrry.com/errordeconexion/errordeconexion.com/episodes/EDC_Ep024.mp3" length="19524701" type="audio/mpeg" />
+		<itunes:subtitle>Batman vs Superman: Batman vs Superman “Batman, el regreso del Caballero Oscuro” de Frank Miller Batman: The Dark Knight Returns (película de animación) Nuevos destinos de Turkish Airlines: Gotham y Metrópolis Deleted Scene from «Batman v Superman” Sta...</itunes:subtitle>
+		<itunes:summary>Batman vs Superman: Batman vs Superman “Batman, el regreso del Caballero Oscuro” de Frank Miller Batman: The Dark Knight Returns (película de animación) Nuevos destinos de Turkish Airlines: Gotham y Metrópolis Deleted Scene from «Batman v Superman” Starring Jimmy Kimmel El Universo RockStars: El reboot de Guns ‘n’ Roses, juntos de nuevo 23 años después … Seguir leyendo Ep024: Cliffjander Clander →</itunes:summary>
+		<itunes:author>Nahúm García y Andrés Cabanes</itunes:author>
+		<itunes:image href="http://errordeconexion.com/wp-content/uploads/powerpress/Error_de_Conexion_Logo_v2_3000.jpg" />
+		<itunes:season>2</itunes:season>
+		<itunes:episode>24</itunes:episode>
+		<itunes:title>Ep024: Cliffjander Clander</itunes:title>
+		<itunes:duration>36:36</itunes:duration>
+		</item>
+	<item>
+		<title>Ep023: Gromenagüer as a Service</title>
+		<link>http://errordeconexion.com/23-gromenaguer-as-a-service/</link>
+		<pubDate>Tue, 19 Apr 2016 16:51:23 +0000</pubDate>
+		<guid isPermaLink="false">http://errordeconexion.com/?p=171</guid>
+		<description>&lt;p&gt;Nocilla vs Nutella Bimbo y Panrico Chiquito de la Calzada en Wikipediarl [inglés] [español] El Drama de TextExpander Software As a Service: ¿está explotando la burbuja? Algunos servicios con suscripción: Protools, Pocket, Feedly, Feedbin, Evernote, flickr, iCloud, Adobe Creative Cloud De cómo Andrés volvió a PC y Windows… y montó un servidor multimedia con Plex.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href=&quot;http://errordeconexion.com/23-gromenaguer-as-a-service/&quot;&gt;Ep023: Gromenagüer as a Service&lt;/a&gt; first appeared on &lt;a href=&quot;http://errordeconexion.com&quot;&gt;Error de Conexión&lt;/a&gt;.&lt;/p&gt;</description>
+		<enclosure url="http://media.blubrry.com/errordeconexion/errordeconexion.com/episodes/EDC_Ep023.mp3" length="21621189" type="audio/mpeg" />
+		<itunes:subtitle>Nocilla vs Nutella Bimbo y Panrico Chiquito de la Calzada en Wikipediarl [inglés] [español] El Drama de TextExpander Software As a Service: ¿está explotando la burbuja? Algunos servicios con suscripción: Protools, Pocket, Feedly, Feedbin, Evernote,</itunes:subtitle>
+		<itunes:summary>Nocilla vs Nutella Bimbo y Panrico Chiquito de la Calzada en Wikipediarl [inglés] [español] El Drama de TextExpander Software As a Service: ¿está explotando la burbuja? Algunos servicios con suscripción: Protools, Pocket, Feedly, Feedbin, Evernote, flickr, iCloud, Adobe Creative Cloud De cómo Andrés volvió a PC y Windows… y montó un servidor multimedia con Plex.</itunes:summary>
+		<itunes:author>Nahúm García y Andrés Cabanes</itunes:author>
+		<itunes:image href="http://errordeconexion.com/wp-content/uploads/powerpress/Error_de_Conexion_Logo_v2_3000.jpg" />
+		<itunes:season>2</itunes:season>
+		<itunes:episode>23</itunes:episode>
+		<itunes:title>Ep023: Gromenagüer as a Service</itunes:title>
+		<itunes:duration>40:58</itunes:duration>
+		</item>
+	<item>
+		<title>Ep022: El año que si pero no</title>
+		<link>http://errordeconexion.com/22-el-ano-que-si-pero-no/</link>
+		<pubDate>Tue, 12 Apr 2016 17:36:24 +0000</pubDate>
+		<guid isPermaLink="false">http://errordeconexion.com/?p=161</guid>
+		<description>&lt;p&gt;Tecnología: Apple Watch Apple Music iCloud Photo Librery Google Photos Netflix Snapchat Películas: Star Wars Mad Max Inside Out It Follows What We Do In The Shadows Ex Machina The Martian Series: Mad Men Game Of Thrones Mr. Robot Master Of None Narcos Daredevil Jessica Jones Música: Los discos producidos por Nahum: Francisco Nixon – Lo malo … &lt;a href=&quot;http://errordeconexion.com/22-el-ano-que-si-pero-no/&quot; class=&quot;more-link&quot;&gt;Seguir leyendo &lt;span class=&quot;screen-reader-text&quot;&gt;Ep022: El año que si pero no&lt;/span&gt; &lt;span class=&quot;meta-nav&quot;&gt;→&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The post &lt;a href=&quot;http://errordeconexion.com/22-el-ano-que-si-pero-no/&quot;&gt;Ep022: El año que si pero no&lt;/a&gt; first appeared on &lt;a href=&quot;http://errordeconexion.com&quot;&gt;Error de Conexión&lt;/a&gt;.&lt;/p&gt;</description>
+		<enclosure url="http://media.blubrry.com/errordeconexion/errordeconexion.com/episodes/EDC_Ep022.mp3" length="35310398" type="audio/mpeg" />
+		<itunes:subtitle>Tecnología: Apple Watch Apple Music iCloud Photo Librery Google Photos Netflix Snapchat Películas: Star Wars Mad Max Inside Out It Follows What We Do In The Shadows Ex Machina The Martian Series: Mad Men Game Of Thrones Mr.</itunes:subtitle>
+		<itunes:summary>Tecnología: Apple Watch Apple Music iCloud Photo Librery Google Photos Netflix Snapchat Películas: Star Wars Mad Max Inside Out It Follows What We Do In The Shadows Ex Machina The Martian Series: Mad Men Game Of Thrones Mr. Robot Master Of None Narcos Daredevil Jessica Jones Música: Los discos producidos por Nahum: Francisco Nixon – Lo malo … Seguir leyendo Ep022: El año que si pero no →</itunes:summary>
+		<itunes:author>Nahúm García y Andrés Cabanes</itunes:author>
+		<itunes:image href="http://errordeconexion.com/wp-content/uploads/powerpress/Error_de_Conexion_Logo_v2_3000.jpg" />
+		<itunes:season>2</itunes:season>
+		<itunes:episode>22</itunes:episode>
+		<itunes:title>Ep022: El año que si pero no</itunes:title>
+		<itunes:duration>1:09:29</itunes:duration>
+		</item>
+	<item>
+		<title>Ep021: Abrumán y los post millenials, con @denegro</title>
+		<link>http://errordeconexion.com/21-abruman-y-los-post-millenials-con-denegro/</link>
+		<pubDate>Wed, 25 Feb 2015 23:24:04 +0000</pubDate>
+		<guid isPermaLink="false">http://errordeconexion.com/?p=155</guid>
+		<description>&lt;p&gt;Designit Twitter del FIB 2009 El último Big Mac de Islandia Post-Its Snapchat Disciplina Atlántico – El centro del Bosque Bares de Toledo – El TBO, El Stone Bar en Torrijos PAL El Frente Cubata Boxee Box Synology Western Digital My Cloud Soylent / Joylent Espidifén en Facebook Tarta Romántica en Facebook Alexvega y el Joylent … &lt;a href=&quot;http://errordeconexion.com/21-abruman-y-los-post-millenials-con-denegro/&quot; class=&quot;more-link&quot;&gt;Seguir leyendo &lt;span class=&quot;screen-reader-text&quot;&gt;Ep021: Abrumán y los post millenials, con @denegro&lt;/span&gt; &lt;span class=&quot;meta-nav&quot;&gt;→&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The post &lt;a href=&quot;http://errordeconexion.com/21-abruman-y-los-post-millenials-con-denegro/&quot;&gt;Ep021: Abrumán y los post millenials, con @denegro&lt;/a&gt; first appeared on &lt;a href=&quot;http://errordeconexion.com&quot;&gt;Error de Conexión&lt;/a&gt;.&lt;/p&gt;</description>
+		<enclosure url="http://media.blubrry.com/errordeconexion/errordeconexion.com/episodes/EDC_Ep021.mp3" length="49937502" type="audio/mpeg" />
+		<itunes:subtitle>Designit Twitter del FIB 2009 El último Big Mac de Islandia Post-Its Snapchat Disciplina Atlántico – El centro del Bosque Bares de Toledo – El TBO, El Stone Bar en Torrijos PAL El Frente Cubata Boxee Box Synology Western Digital My Cloud Soylent / Joyl...</itunes:subtitle>
+		<itunes:summary>Designit Twitter del FIB 2009 El último Big Mac de Islandia Post-Its Snapchat Disciplina Atlántico – El centro del Bosque Bares de Toledo – El TBO, El Stone Bar en Torrijos PAL El Frente Cubata Boxee Box Synology Western Digital My Cloud Soylent / Joylent Espidifén en Facebook Tarta Romántica en Facebook Alexvega y el Joylent … Seguir leyendo Ep021: Abrumán y los post millenials, con @denegro →</itunes:summary>
+		<itunes:author>Nahúm García y Andrés Cabanes</itunes:author>
+		<itunes:image href="http://errordeconexion.com/wp-content/uploads/powerpress/Error_de_Conexion_Logo_v2_3000.jpg" />
+		<itunes:season>2</itunes:season>
+		<itunes:episode>21</itunes:episode>
+		<itunes:title>Ep021: Abrumán y los post millenials, con @denegro</itunes:title>
+		<itunes:duration>1:39:57</itunes:duration>
+		</item>
+	<item>
+		<title>Ep020: Especial 2014, El Año Que Vivimos Desconectadamente</title>
+		<link>http://errordeconexion.com/20-especial-2014-el-ano-que-vivimos-desconectadamente/</link>
+		<pubDate>Mon, 29 Dec 2014 20:21:01 +0000</pubDate>
+		<guid isPermaLink="false">http://errordeconexion.com/?p=149</guid>
+		<description>&lt;p&gt;Lo mejor de nuestro 2014 iOS 8 y Yosemite Material Design – Android 5.0 Apple apuesta por los cachofones Nahúm se cambió de sector Uber, para bien o para mal Los podcast (YEAH) El año de Bicimad Google Car (cómic de The Oatmeal) Los drones lo petaron Apps: Workflow Nuzzel Cabify (Lite) y Hailo Snapchat Juegos: … &lt;a href=&quot;http://errordeconexion.com/20-especial-2014-el-ano-que-vivimos-desconectadamente/&quot; class=&quot;more-link&quot;&gt;Seguir leyendo &lt;span class=&quot;screen-reader-text&quot;&gt;Ep020: Especial 2014, El Año Que Vivimos Desconectadamente&lt;/span&gt; &lt;span class=&quot;meta-nav&quot;&gt;→&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The post &lt;a href=&quot;http://errordeconexion.com/20-especial-2014-el-ano-que-vivimos-desconectadamente/&quot;&gt;Ep020: Especial 2014, El Año Que Vivimos Desconectadamente&lt;/a&gt; first appeared on &lt;a href=&quot;http://errordeconexion.com&quot;&gt;Error de Conexión&lt;/a&gt;.&lt;/p&gt;</description>
+		<enclosure url="http://media.blubrry.com/errordeconexion/errordeconexion.com/episodes/EDC_Ep020.mp3" length="54477961" type="audio/mpeg" />
+		<itunes:subtitle>Lo mejor de nuestro 2014 iOS 8 y Yosemite Material Design – Android 5.0 Apple apuesta por los cachofones Nahúm se cambió de sector Uber, para bien o para mal Los podcast (YEAH) El año de Bicimad Google Car (cómic de The Oatmeal) Los drones lo petaron A...</itunes:subtitle>
+		<itunes:summary>Lo mejor de nuestro 2014 iOS 8 y Yosemite Material Design – Android 5.0 Apple apuesta por los cachofones Nahúm se cambió de sector Uber, para bien o para mal Los podcast (YEAH) El año de Bicimad Google Car (cómic de The Oatmeal) Los drones lo petaron Apps: Workflow Nuzzel Cabify (Lite) y Hailo Snapchat Juegos: … Seguir leyendo Ep020: Especial 2014, El Año Que Vivimos Desconectadamente →</itunes:summary>
+		<itunes:author>Nahúm García y Andrés Cabanes</itunes:author>
+		<itunes:image href="http://errordeconexion.com/wp-content/uploads/powerpress/Error_de_Conexion_Logo_v2_3000.jpg" />
+		<itunes:season>2</itunes:season>
+		<itunes:episode>20</itunes:episode>
+		<itunes:title>Ep020: Especial 2014, El Año Que Vivimos Desconectadamente</itunes:title>
+		<itunes:duration>1:49:25</itunes:duration>
+		</item>
+	<item>
+		<title>Ep019: El Sorteo del EuroGritón con Kike Estarter</title>
+		<link>http://errordeconexion.com/019-el-sorteo-del-eurogriton-con-kike-estarter/</link>
+		<pubDate>Mon, 24 Nov 2014 00:28:08 +0000</pubDate>
+		<guid isPermaLink="false">http://errordeconexion.com/?p=142</guid>
+		<description>&lt;p&gt;Recordad que podéis dejadnos vuestros comentarios en http://… digo en el apartado de correos 1023 de Madrid.  El video de Adult Swin “Too many cooks” Videojuegos: Space Age Monument Valley: Forgotten Shores Amazon Echo Siri Ultimate Ears Boom Jawbone Jambox Amp: la funda de iphone que además mejora el sonido y aumenta la batería. Crítica Puls: … &lt;a href=&quot;http://errordeconexion.com/019-el-sorteo-del-eurogriton-con-kike-estarter/&quot; class=&quot;more-link&quot;&gt;Seguir leyendo &lt;span class=&quot;screen-reader-text&quot;&gt;Ep019: El Sorteo del EuroGritón con Kike Estarter&lt;/span&gt; &lt;span class=&quot;meta-nav&quot;&gt;→&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The post &lt;a href=&quot;http://errordeconexion.com/019-el-sorteo-del-eurogriton-con-kike-estarter/&quot;&gt;Ep019: El Sorteo del EuroGritón con Kike Estarter&lt;/a&gt; first appeared on &lt;a href=&quot;http://errordeconexion.com&quot;&gt;Error de Conexión&lt;/a&gt;.&lt;/p&gt;</description>
+		<enclosure url="http://media.blubrry.com/errordeconexion/errordeconexion.com/episodes/EDC_Ep019.mp3" length="34734180" type="audio/mpeg" />
+		<itunes:subtitle>Recordad que podéis dejadnos vuestros comentarios en http://… digo en el apartado de correos 1023 de Madrid.  El video de Adult Swin “Too many cooks” Videojuegos: Space Age Monument Valley: Forgotten Shores Amazon Echo Siri Ultimate Ears Boom Jawbone J...</itunes:subtitle>
+		<itunes:summary>Recordad que podéis dejadnos vuestros comentarios en http://… digo en el apartado de correos 1023 de Madrid.  El video de Adult Swin “Too many cooks” Videojuegos: Space Age Monument Valley: Forgotten Shores Amazon Echo Siri Ultimate Ears Boom Jawbone Jambox Amp: la funda de iphone que además mejora el sonido y aumenta la batería. Crítica Puls: … Seguir leyendo Ep019: El Sorteo del EuroGritón con Kike Estarter →</itunes:summary>
+		<itunes:author>Nahúm García y Andrés Cabanes</itunes:author>
+		<itunes:image href="http://errordeconexion.com/wp-content/uploads/powerpress/Error_de_Conexion_Logo_v2_3000.jpg" />
+		<itunes:season>2</itunes:season>
+		<itunes:episode>19</itunes:episode>
+		<itunes:title>Ep019: El Sorteo del EuroGritón con Kike Estarter</itunes:title>
+		<itunes:duration>1:08:17</itunes:duration>
+		</item>
+	<item>
+		<title>Ep018: format internet://</title>
+		<link>http://errordeconexion.com/018-format-internet/</link>
+		<pubDate>Mon, 10 Nov 2014 13:45:30 +0000</pubDate>
+		<guid isPermaLink="false">http://errordeconexion.com/?p=135</guid>
+		<description>&lt;p&gt;IKEA Desk Why I killed my standing desk 10 hours of walking in NYC as a man Nueva cabecera: Loom, Monkey, Sam &amp; Max… Videojuego The Walking Dead Season One de TellTale Games David O’Reilly: Mountain Octocat Adventures RGB XYZ Journey / Flower Zen Bound The Last of Us DiskCopy DOSBox OpenEmu Taylor Swift quita … &lt;a href=&quot;http://errordeconexion.com/018-format-internet/&quot; class=&quot;more-link&quot;&gt;Seguir leyendo &lt;span class=&quot;screen-reader-text&quot;&gt;Ep018: format internet://&lt;/span&gt; &lt;span class=&quot;meta-nav&quot;&gt;→&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The post &lt;a href=&quot;http://errordeconexion.com/018-format-internet/&quot;&gt;Ep018: format internet://&lt;/a&gt; first appeared on &lt;a href=&quot;http://errordeconexion.com&quot;&gt;Error de Conexión&lt;/a&gt;.&lt;/p&gt;</description>
+		<enclosure url="http://media.blubrry.com/errordeconexion/errordeconexion.com/episodes/EDC_Ep018.mp3" length="33345383" type="audio/mpeg" />
+		<itunes:subtitle>IKEA Desk Why I killed my standing desk 10 hours of walking in NYC as a man Nueva cabecera: Loom, Monkey, Sam &amp; Max… Videojuego The Walking Dead Season One de TellTale Games David O’Reilly: Mountain Octocat Adventures RGB XYZ Journey / Flower Zen Bound...</itunes:subtitle>
+		<itunes:summary>IKEA Desk Why I killed my standing desk 10 hours of walking in NYC as a man Nueva cabecera: Loom, Monkey, Sam &amp; Max… Videojuego The Walking Dead Season One de TellTale Games David O’Reilly: Mountain Octocat Adventures RGB XYZ Journey / Flower Zen Bound The Last of Us DiskCopy DOSBox OpenEmu Taylor Swift quita … Seguir leyendo Ep018: format internet:// →</itunes:summary>
+		<itunes:author>Nahúm García y Andrés Cabanes</itunes:author>
+		<itunes:image href="http://errordeconexion.com/wp-content/uploads/powerpress/Error_de_Conexion_Logo_v2_3000.jpg" />
+		<itunes:season>2</itunes:season>
+		<itunes:episode>18</itunes:episode>
+		<itunes:title>Ep018: format internet://</itunes:title>
+		<itunes:duration>1:05:23</itunes:duration>
+		</item>
+	<item>
+		<title>Ep017: Desconmensurable y Shakespearito</title>
+		<link>http://errordeconexion.com/17-desconmensurable-y-shakespearito/</link>
+		<pubDate>Sat, 01 Nov 2014 10:19:23 +0000</pubDate>
+		<guid isPermaLink="false">http://errordeconexion.com/?p=126</guid>
+		<description>&lt;p&gt;Wolfram Alpha iPhone 6, el minicachifón El juego de Game Of Thrones Ascent de iOS Google Glases Google Inbox La problemática de los ecosistemas Yosemite, Handoff, iMessage La RAE «a cascoporro» Bye bye Spotify (por ahora) Los detallines de Rdio Amazon Autorip BiciMad, sin bicis&lt;/p&gt;
+&lt;p&gt;The post &lt;a href=&quot;http://errordeconexion.com/17-desconmensurable-y-shakespearito/&quot;&gt;Ep017: Desconmensurable y Shakespearito&lt;/a&gt; first appeared on &lt;a href=&quot;http://errordeconexion.com&quot;&gt;Error de Conexión&lt;/a&gt;.&lt;/p&gt;</description>
+		<enclosure url="http://media.blubrry.com/errordeconexion/errordeconexion.com/episodes/EDC_Ep017.mp3" length="31640364" type="audio/mpeg" />
+		<itunes:subtitle>Wolfram Alpha iPhone 6, el minicachifón El juego de Game Of Thrones Ascent de iOS Google Glases Google Inbox La problemática de los ecosistemas Yosemite, Handoff, iMessage La RAE «a cascoporro» Bye bye Spotify (por ahora) Los detallines de Rdio Amazon ...</itunes:subtitle>
+		<itunes:summary>Wolfram Alpha iPhone 6, el minicachifón El juego de Game Of Thrones Ascent de iOS Google Glases Google Inbox La problemática de los ecosistemas Yosemite, Handoff, iMessage La RAE «a cascoporro» Bye bye Spotify (por ahora) Los detallines de Rdio Amazon Autorip BiciMad, sin bicis</itunes:summary>
+		<itunes:author>Nahúm García y Andrés Cabanes</itunes:author>
+		<itunes:image href="http://errordeconexion.com/wp-content/uploads/powerpress/Error_de_Conexion_Logo_v2_3000.jpg" />
+		<itunes:season>2</itunes:season>
+		<itunes:episode>17</itunes:episode>
+		<itunes:title>Ep017: Desconmensurable y Shakespearito</itunes:title>
+		<itunes:duration>1:01:50</itunes:duration>
+		</item>
+	<item>
+		<title>Ep016: Vengo de Londres, traigo Wearables (Con Analía Plaza, @lalalalia)</title>
+		<link>http://errordeconexion.com/16-vengo-de-londres-traigo-wearables-con-analia-plaza-lalalalia/</link>
+		<pubDate>Wed, 30 Jul 2014 11:57:56 +0000</pubDate>
+		<guid isPermaLink="false">http://errordeconexion.com/?p=119</guid>
+		<description>&lt;p&gt;El desastre de la nueva ley de propiedad intelectual. El nuevo saldo de Andrés en BiciMad. La dieta de Google de Nahúm Wearables para personas mayores Google Glass El ruido de las notificaciones  Analía sobre el ODI ¿Qué es Open Data? (Wikipedia) Open Data y Open Government Cuando los datos no son accesibles, crowdsourcing. Amazon … &lt;a href=&quot;http://errordeconexion.com/16-vengo-de-londres-traigo-wearables-con-analia-plaza-lalalalia/&quot; class=&quot;more-link&quot;&gt;Seguir leyendo &lt;span class=&quot;screen-reader-text&quot;&gt;Ep016: Vengo de Londres, traigo Wearables (Con Analía Plaza, @lalalalia)&lt;/span&gt; &lt;span class=&quot;meta-nav&quot;&gt;→&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The post &lt;a href=&quot;http://errordeconexion.com/16-vengo-de-londres-traigo-wearables-con-analia-plaza-lalalalia/&quot;&gt;Ep016: Vengo de Londres, traigo Wearables (Con Analía Plaza, @lalalalia)&lt;/a&gt; first appeared on &lt;a href=&quot;http://errordeconexion.com&quot;&gt;Error de Conexión&lt;/a&gt;.&lt;/p&gt;</description>
+		<enclosure url="http://media.blubrry.com/errordeconexion/errordeconexion.com/episodes/EDC_Ep016.mp3" length="47779919" type="audio/mpeg" />
+		<itunes:subtitle>El desastre de la nueva ley de propiedad intelectual. El nuevo saldo de Andrés en BiciMad. La dieta de Google de Nahúm Wearables para personas mayores Google Glass El ruido de las notificaciones  Analía sobre el ODI ¿Qué es Open Data?</itunes:subtitle>
+		<itunes:summary>El desastre de la nueva ley de propiedad intelectual. El nuevo saldo de Andrés en BiciMad. La dieta de Google de Nahúm Wearables para personas mayores Google Glass El ruido de las notificaciones  Analía sobre el ODI ¿Qué es Open Data? (Wikipedia) Open Data y Open Government Cuando los datos no son accesibles, crowdsourcing. Amazon … Seguir leyendo Ep016: Vengo de Londres, traigo Wearables (Con Analía Plaza, @lalalalia) →</itunes:summary>
+		<itunes:author>Nahúm García y Andrés Cabanes</itunes:author>
+		<itunes:image href="http://errordeconexion.com/wp-content/uploads/powerpress/Error_de_Conexion_Logo_v2_3000.jpg" />
+		<itunes:season>1</itunes:season>
+		<itunes:episode>16</itunes:episode>
+		<itunes:title>Ep016: Vengo de Londres, traigo Wearables (Con Analía Plaza, @lalalalia)</itunes:title>
+		<itunes:duration>1:15:00</itunes:duration>
+		</item>
+	<item>
+		<title>Ep015: Über-random</title>
+		<link>http://errordeconexion.com/15-uber-random/</link>
+		<pubDate>Sat, 26 Jul 2014 09:26:55 +0000</pubDate>
+		<guid isPermaLink="false">http://errordeconexion.com/?p=121</guid>
+		<description>&lt;p&gt;En el capítulo de hoy nos dejamos embelesar por los cantos de sirena de un pack de cerveza fría en una sofocante noche de verano madrileño. Aprovechando que Andrés pasaba por el barrio, grabamos cara a cara, sin guión y sin internet, en capítulo más personal y whatever de todo EDC. Súper Pop David Bowie La … &lt;a href=&quot;http://errordeconexion.com/15-uber-random/&quot; class=&quot;more-link&quot;&gt;Seguir leyendo &lt;span class=&quot;screen-reader-text&quot;&gt;Ep015: Über-random&lt;/span&gt; &lt;span class=&quot;meta-nav&quot;&gt;→&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The post &lt;a href=&quot;http://errordeconexion.com/15-uber-random/&quot;&gt;Ep015: Über-random&lt;/a&gt; first appeared on &lt;a href=&quot;http://errordeconexion.com&quot;&gt;Error de Conexión&lt;/a&gt;.&lt;/p&gt;</description>
+		<enclosure url="http://media.blubrry.com/errordeconexion/errordeconexion.com/episodes/EDC_Ep015.mp3" length="32855185" type="audio/mpeg" />
+		<itunes:subtitle>En el capítulo de hoy nos dejamos embelesar por los cantos de sirena de un pack de cerveza fría en una sofocante noche de verano madrileño. Aprovechando que Andrés pasaba por el barrio, grabamos cara a cara, sin guión y sin internet,</itunes:subtitle>
+		<itunes:summary>En el capítulo de hoy nos dejamos embelesar por los cantos de sirena de un pack de cerveza fría en una sofocante noche de verano madrileño. Aprovechando que Andrés pasaba por el barrio, grabamos cara a cara, sin guión y sin internet, en capítulo más personal y whatever de todo EDC. Súper Pop David Bowie La … Seguir leyendo Ep015: Über-random →</itunes:summary>
+		<itunes:author>Nahúm García y Andrés Cabanes</itunes:author>
+		<itunes:image href="http://errordeconexion.com/wp-content/uploads/powerpress/Error_de_Conexion_Logo_v2_3000.jpg" />
+		<itunes:season>1</itunes:season>
+		<itunes:episode>15</itunes:episode>
+		<itunes:title>Ep015: Über-random</itunes:title>
+		<itunes:duration>1:04:22</itunes:duration>
+		</item>
+	<item>
+		<title>Ep014: Calzoncillo rojo tipo CIA</title>
+		<link>http://errordeconexion.com/014-calzoncillo-rojo-tipo-cia/</link>
+		<pubDate>Fri, 04 Jul 2014 11:22:26 +0000</pubDate>
+		<guid isPermaLink="false">http://errordeconexion.com/?p=116</guid>
+		<description>&lt;p&gt;La “Droga Canibal” BiciMad: El pene en los Totems de BiciMad Las 12 pruebas para usar bicimad Auditoría de seguridad a BiciMad BiciMad ¿Servicio público o negocio? CityMapper Goth Screenshots Todo lo que ha sacado Google Las gafas de realidad virtual de cartón de google son un plagio de hace 5 años!! Retrato Robot El … &lt;a href=&quot;http://errordeconexion.com/014-calzoncillo-rojo-tipo-cia/&quot; class=&quot;more-link&quot;&gt;Seguir leyendo &lt;span class=&quot;screen-reader-text&quot;&gt;Ep014: Calzoncillo rojo tipo CIA&lt;/span&gt; &lt;span class=&quot;meta-nav&quot;&gt;→&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The post &lt;a href=&quot;http://errordeconexion.com/014-calzoncillo-rojo-tipo-cia/&quot;&gt;Ep014: Calzoncillo rojo tipo CIA&lt;/a&gt; first appeared on &lt;a href=&quot;http://errordeconexion.com&quot;&gt;Error de Conexión&lt;/a&gt;.&lt;/p&gt;</description>
+		<enclosure url="http://media.blubrry.com/errordeconexion/errordeconexion.com/episodes/EDC_Ep014.mp3" length="42638555" type="audio/mpeg" />
+		<itunes:subtitle>La “Droga Canibal” BiciMad: El pene en los Totems de BiciMad Las 12 pruebas para usar bicimad Auditoría de seguridad a BiciMad BiciMad ¿Servicio público o negocio? CityMapper Goth Screenshots Todo lo que ha sacado Google Las gafas de realidad virtual d...</itunes:subtitle>
+		<itunes:summary>La “Droga Canibal” BiciMad: El pene en los Totems de BiciMad Las 12 pruebas para usar bicimad Auditoría de seguridad a BiciMad BiciMad ¿Servicio público o negocio? CityMapper Goth Screenshots Todo lo que ha sacado Google Las gafas de realidad virtual de cartón de google son un plagio de hace 5 años!! Retrato Robot El … Seguir leyendo Ep014: Calzoncillo rojo tipo CIA →</itunes:summary>
+		<itunes:author>Nahúm García y Andrés Cabanes</itunes:author>
+		<itunes:image href="http://errordeconexion.com/wp-content/uploads/powerpress/Error_de_Conexion_Logo_v2_3000.jpg" />
+		<itunes:season>1</itunes:season>
+		<itunes:episode>14</itunes:episode>
+		<itunes:title>Ep014: Calzoncillo rojo tipo CIA</itunes:title>
+		<itunes:duration>1:24:45</itunes:duration>
+		</item>
+	<item>
+		<title>Ep013: Sin Filtros</title>
+		<link>http://errordeconexion.com/013-sin-filtros/</link>
+		<pubDate>Mon, 16 Jun 2014 10:20:44 +0000</pubDate>
+		<guid isPermaLink="false">http://errordeconexion.com/?p=111</guid>
+		<description>&lt;p&gt;Spotify for artists Apps de fotografía VSCO Cam (iOS) Instasize (iOS – Android) Afterlight (iOS) TouchRetouch (iOS – Android) AvgCamPro (iOS) Cortex Camera (iOS) Juegos iOS Los Ríos de Alice (iOS – Android) Count Battle (iOS) Monument Valley (iOS – Android) Bastion (Multiplataforma – iOS) Threes (iOS) Tiny Wings (iOS) Apps Automatización iOS Drafts (iOS) Launch … &lt;a href=&quot;http://errordeconexion.com/013-sin-filtros/&quot; class=&quot;more-link&quot;&gt;Seguir leyendo &lt;span class=&quot;screen-reader-text&quot;&gt;Ep013: Sin Filtros&lt;/span&gt; &lt;span class=&quot;meta-nav&quot;&gt;→&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The post &lt;a href=&quot;http://errordeconexion.com/013-sin-filtros/&quot;&gt;Ep013: Sin Filtros&lt;/a&gt; first appeared on &lt;a href=&quot;http://errordeconexion.com&quot;&gt;Error de Conexión&lt;/a&gt;.&lt;/p&gt;</description>
+		<enclosure url="http://media.blubrry.com/errordeconexion/errordeconexion.com/episodes/EDC_Ep013.m4a" length="40520866" type="audio/x-m4a" />
+		<itunes:subtitle>Spotify for artists Apps de fotografía VSCO Cam (iOS) Instasize (iOS – Android) Afterlight (iOS) TouchRetouch (iOS – Android) AvgCamPro (iOS) Cortex Camera (iOS) Juegos iOS Los Ríos de Alice (iOS – Android) Count Battle (iOS) Monument Valley (iOS – And...</itunes:subtitle>
+		<itunes:summary>Spotify for artists Apps de fotografía VSCO Cam (iOS) Instasize (iOS – Android) Afterlight (iOS) TouchRetouch (iOS – Android) AvgCamPro (iOS) Cortex Camera (iOS) Juegos iOS Los Ríos de Alice (iOS – Android) Count Battle (iOS) Monument Valley (iOS – Android) Bastion (Multiplataforma – iOS) Threes (iOS) Tiny Wings (iOS) Apps Automatización iOS Drafts (iOS) Launch … Seguir leyendo Ep013: Sin Filtros →</itunes:summary>
+		<itunes:author>Nahúm García y Andrés Cabanes</itunes:author>
+		<itunes:image href="http://errordeconexion.com/wp-content/uploads/powerpress/Error_de_Conexion_Logo_v2_3000.jpg" />
+		<itunes:season>1</itunes:season>
+		<itunes:episode>13</itunes:episode>
+		<itunes:title>Ep013: Sin Filtros</itunes:title>
+		<itunes:duration>1:18:34</itunes:duration>
+		</item>
+	<item>
+		<title>Ep012: Papi Bird y el tenedor de Android</title>
+		<link>http://errordeconexion.com/012-papi-bird-y-el-tenedor-de-android/</link>
+		<pubDate>Thu, 13 Feb 2014 18:44:16 +0000</pubDate>
+		<guid isPermaLink="false">http://errordeconexion.com/?p=99</guid>
+		<description>&lt;p&gt;Un juego genial: Threes Deja de venderse el Flappy Bird y venden iPhone con el juego por 100.000 $ en ebay Las pelusas que obstruyen las conexiones del iPhone 5/5S Errores con las entradas/salidas de audio en los dispositivos Apple Cavestany: Gente en sitios, El Señor. Telegram: ¿sustituto de whatsapp? Bookmarklet para ver videos de … &lt;a href=&quot;http://errordeconexion.com/012-papi-bird-y-el-tenedor-de-android/&quot; class=&quot;more-link&quot;&gt;Seguir leyendo &lt;span class=&quot;screen-reader-text&quot;&gt;Ep012: Papi Bird y el tenedor de Android&lt;/span&gt; &lt;span class=&quot;meta-nav&quot;&gt;→&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The post &lt;a href=&quot;http://errordeconexion.com/012-papi-bird-y-el-tenedor-de-android/&quot;&gt;Ep012: Papi Bird y el tenedor de Android&lt;/a&gt; first appeared on &lt;a href=&quot;http://errordeconexion.com&quot;&gt;Error de Conexión&lt;/a&gt;.&lt;/p&gt;</description>
+		<enclosure url="http://media.blubrry.com/errordeconexion/errordeconexion.com/episodes/EDC_Ep012.mp3" length="31300262" type="audio/mpeg" />
+		<itunes:subtitle>Un juego genial: Threes Deja de venderse el Flappy Bird y venden iPhone con el juego por 100.000 $ en ebay Las pelusas que obstruyen las conexiones del iPhone 5/5S Errores con las entradas/salidas de audio en los dispositivos Apple Cavestany: Gente en ...</itunes:subtitle>
+		<itunes:summary>Un juego genial: Threes Deja de venderse el Flappy Bird y venden iPhone con el juego por 100.000 $ en ebay Las pelusas que obstruyen las conexiones del iPhone 5/5S Errores con las entradas/salidas de audio en los dispositivos Apple Cavestany: Gente en sitios, El Señor. Telegram: ¿sustituto de whatsapp? Bookmarklet para ver videos de … Seguir leyendo Ep012: Papi Bird y el tenedor de Android →</itunes:summary>
+		<itunes:author>Nahúm García y Andrés Cabanes</itunes:author>
+		<itunes:image href="http://errordeconexion.com/wp-content/uploads/powerpress/Error_de_Conexion_Logo_v2_3000.jpg" />
+		<itunes:season>1</itunes:season>
+		<itunes:episode>12</itunes:episode>
+		<itunes:title>Ep012: Papi Bird y el tenedor de Android</itunes:title>
+		<itunes:duration>59:56</itunes:duration>
+		</item>
+	<item>
+		<title>Ep011: Hacía falta UNCUT</title>
+		<link>http://errordeconexion.com/011-hacia-falta/</link>
+		<pubDate>Sat, 08 Feb 2014 10:15:02 +0000</pubDate>
+		<guid isPermaLink="false">http://errordeconexion.com/?p=93</guid>
+		<description>&lt;p&gt;Podcast: Hacía falta SOLEOL, y las donaciones Smbup Wocial Adiós Steve Balmer, hola Satya Nadella Minijuegos: GIRP y YETI SPORTS Flappy Bird: iOS – Android Juegos desquiciantes: QWOP – cosplayer OCTODAD – gameplay SURGEON SIMULATOR – game play HAPPY WHEELS – game play GOAT SIMULATOR – game play Otros juegos: Ogame Loquendo Second Life Cosas que hacer en internet: ver a … &lt;a href=&quot;http://errordeconexion.com/011-hacia-falta/&quot; class=&quot;more-link&quot;&gt;Seguir leyendo &lt;span class=&quot;screen-reader-text&quot;&gt;Ep011: Hacía falta UNCUT&lt;/span&gt; &lt;span class=&quot;meta-nav&quot;&gt;→&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The post &lt;a href=&quot;http://errordeconexion.com/011-hacia-falta/&quot;&gt;Ep011: Hacía falta UNCUT&lt;/a&gt; first appeared on &lt;a href=&quot;http://errordeconexion.com&quot;&gt;Error de Conexión&lt;/a&gt;.&lt;/p&gt;</description>
+		<enclosure url="http://media.blubrry.com/errordeconexion/errordeconexion.com/episodes/EDC_Ep011.mp3" length="61564181" type="audio/mpeg" />
+		<itunes:subtitle>Podcast: Hacía falta SOLEOL, y las donaciones Smbup Wocial Adiós Steve Balmer, hola Satya Nadella Minijuegos: GIRP y YETI SPORTS Flappy Bird: iOS – Android Juegos desquiciantes: QWOP – cosplayer OCTODAD – gameplay SURGEON SIMULATOR – game play HAPPY WH...</itunes:subtitle>
+		<itunes:summary>Podcast: Hacía falta SOLEOL, y las donaciones Smbup Wocial Adiós Steve Balmer, hola Satya Nadella Minijuegos: GIRP y YETI SPORTS Flappy Bird: iOS – Android Juegos desquiciantes: QWOP – cosplayer OCTODAD – gameplay SURGEON SIMULATOR – game play HAPPY WHEELS – game play GOAT SIMULATOR – game play Otros juegos: Ogame Loquendo Second Life Cosas que hacer en internet: ver a … Seguir leyendo Ep011: Hacía falta UNCUT →</itunes:summary>
+		<itunes:author>Nahúm García y Andrés Cabanes</itunes:author>
+		<itunes:image href="http://errordeconexion.com/wp-content/uploads/powerpress/Error_de_Conexion_Logo_v2_3000.jpg" />
+		<itunes:season>1</itunes:season>
+		<itunes:episode>11</itunes:episode>
+		<itunes:title>Ep011: Hacía falta UNCUT</itunes:title>
+		<itunes:duration>2:02:59</itunes:duration>
+		</item>
+	<item>
+		<title>Ep010: Realidad energumentada</title>
+		<link>http://errordeconexion.com/010-realidad-energumentada/</link>
+		<pubDate>Sat, 01 Feb 2014 14:00:32 +0000</pubDate>
+		<guid isPermaLink="false">http://errordeconexion.com/?p=89</guid>
+		<description>&lt;p&gt;Lenovo comprar Motorola a Google El robo de @N XKCD: Security El cuerpo especial de seguridad de Dropbox Amazon quiere mandarte los paquetes antes de que hagas las compras 13 años de diferencia en gráficos de ordenador… en Lara Croft Series Top Five (Nahum) Los Globos de Oro: palmarés series Los Globos de Oro: palmarés película … &lt;a href=&quot;http://errordeconexion.com/010-realidad-energumentada/&quot; class=&quot;more-link&quot;&gt;Seguir leyendo &lt;span class=&quot;screen-reader-text&quot;&gt;Ep010: Realidad energumentada&lt;/span&gt; &lt;span class=&quot;meta-nav&quot;&gt;→&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The post &lt;a href=&quot;http://errordeconexion.com/010-realidad-energumentada/&quot;&gt;Ep010: Realidad energumentada&lt;/a&gt; first appeared on &lt;a href=&quot;http://errordeconexion.com&quot;&gt;Error de Conexión&lt;/a&gt;.&lt;/p&gt;</description>
+		<enclosure url="http://media.blubrry.com/errordeconexion/errordeconexion.com/episodes/EDC_Ep010.mp3" length="41127753" type="audio/mpeg" />
+		<itunes:subtitle>Lenovo comprar Motorola a Google El robo de @N XKCD: Security El cuerpo especial de seguridad de Dropbox Amazon quiere mandarte los paquetes antes de que hagas las compras 13 años de diferencia en gráficos de ordenador… en Lara Croft Series Top Five (N...</itunes:subtitle>
+		<itunes:summary>Lenovo comprar Motorola a Google El robo de @N XKCD: Security El cuerpo especial de seguridad de Dropbox Amazon quiere mandarte los paquetes antes de que hagas las compras 13 años de diferencia en gráficos de ordenador… en Lara Croft Series Top Five (Nahum) Los Globos de Oro: palmarés series Los Globos de Oro: palmarés película … Seguir leyendo Ep010: Realidad energumentada →</itunes:summary>
+		<itunes:author>Nahúm García y Andrés Cabanes</itunes:author>
+		<itunes:image href="http://errordeconexion.com/wp-content/uploads/powerpress/Error_de_Conexion_Logo_v2_3000.jpg" />
+		<itunes:season>1</itunes:season>
+		<itunes:episode>10</itunes:episode>
+		<itunes:title>Ep010: Realidad energumentada</itunes:title>
+		<itunes:duration>1:20:23</itunes:duration>
+		</item>
+	<item>
+		<title>Ep009: Luke, I am your fader &#8211; con EmeDJ</title>
+		<link>http://errordeconexion.com/009-luke-i-am-your-fader-con-emedj/</link>
+		<pubDate>Mon, 27 Jan 2014 15:39:59 +0000</pubDate>
+		<guid isPermaLink="false">http://errordeconexion.com/?p=79</guid>
+		<description>&lt;p&gt;La web de EME DJ Seven Alternate Ending Pono, el sistema de audio de Neil Young Journey Catfish Kim Jon Il Dropping The Bass Indifferent Cats In Amateur Porn (NSFW) Teenage Thunder: el podcast de EME DJ y Julilán Almazán Slender, juego indie de terror Openemu Grandes WTF del mundo del DJ 1: David Guetta 1 … &lt;a href=&quot;http://errordeconexion.com/009-luke-i-am-your-fader-con-emedj/&quot; class=&quot;more-link&quot;&gt;Seguir leyendo &lt;span class=&quot;screen-reader-text&quot;&gt;Ep009: Luke, I am your fader – con EmeDJ&lt;/span&gt; &lt;span class=&quot;meta-nav&quot;&gt;→&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The post &lt;a href=&quot;http://errordeconexion.com/009-luke-i-am-your-fader-con-emedj/&quot;&gt;Ep009: Luke, I am your fader – con EmeDJ&lt;/a&gt; first appeared on &lt;a href=&quot;http://errordeconexion.com&quot;&gt;Error de Conexión&lt;/a&gt;.&lt;/p&gt;</description>
+		<enclosure url="http://media.blubrry.com/errordeconexion/errordeconexion.com/episodes/EDC_Ep009.mp3" length="61174505" type="audio/mpeg" />
+		<itunes:subtitle>La web de EME DJ Seven Alternate Ending Pono, el sistema de audio de Neil Young Journey Catfish Kim Jon Il Dropping The Bass Indifferent Cats In Amateur Porn (NSFW) Teenage Thunder: el podcast de EME DJ y Julilán Almazán Slender,</itunes:subtitle>
+		<itunes:summary>La web de EME DJ Seven Alternate Ending Pono, el sistema de audio de Neil Young Journey Catfish Kim Jon Il Dropping The Bass Indifferent Cats In Amateur Porn (NSFW) Teenage Thunder: el podcast de EME DJ y Julilán Almazán Slender, juego indie de terror Openemu Grandes WTF del mundo del DJ 1: David Guetta 1 … Seguir leyendo Ep009: Luke, I am your fader – con EmeDJ →</itunes:summary>
+		<itunes:author>Nahúm García y Andrés Cabanes</itunes:author>
+		<itunes:image href="http://errordeconexion.com/wp-content/uploads/powerpress/Error_de_Conexion_Logo_v2_3000.jpg" />
+		<itunes:season>1</itunes:season>
+		<itunes:episode>9</itunes:episode>
+		<itunes:title>Ep009: Luke, I am your fader - con EmeDJ</itunes:title>
+		<itunes:duration>1:37:45</itunes:duration>
+		</item>
+	<item>
+		<title>Ep008: El interruptor de la paz</title>
+		<link>http://errordeconexion.com/008-el-interruptor-de-la-paz/</link>
+		<pubDate>Sun, 19 Jan 2014 22:44:45 +0000</pubDate>
+		<guid isPermaLink="false">http://errordeconexion.com/?p=77</guid>
+		<description>&lt;p&gt;Siniestro Total – ¿Qué tal homosexual? Golpes Bajos – No Mires A Los Ojos De La Gente. Germán Coppini – El Ladrón de Bagdad. Coppini Con Maga – Malos tiempos para la lírica. Lemuripop – Lemuria. Barry Gibb Talk Show (SNL). Cómo organizamos las fotos. Hazel. El flujo de Nahúm con las series. Google compra … &lt;a href=&quot;http://errordeconexion.com/008-el-interruptor-de-la-paz/&quot; class=&quot;more-link&quot;&gt;Seguir leyendo &lt;span class=&quot;screen-reader-text&quot;&gt;Ep008: El interruptor de la paz&lt;/span&gt; &lt;span class=&quot;meta-nav&quot;&gt;→&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The post &lt;a href=&quot;http://errordeconexion.com/008-el-interruptor-de-la-paz/&quot;&gt;Ep008: El interruptor de la paz&lt;/a&gt; first appeared on &lt;a href=&quot;http://errordeconexion.com&quot;&gt;Error de Conexión&lt;/a&gt;.&lt;/p&gt;</description>
+		<enclosure url="http://media.blubrry.com/errordeconexion/errordeconexion.com/episodes/EDC_Ep008.mp3" length="33855737" type="audio/mpeg" />
+		<itunes:subtitle>Siniestro Total – ¿Qué tal homosexual? Golpes Bajos – No Mires A Los Ojos De La Gente. Germán Coppini – El Ladrón de Bagdad. Coppini Con Maga – Malos tiempos para la lírica. Lemuripop – Lemuria. Barry Gibb Talk Show (SNL). Cómo organizamos las fotos.</itunes:subtitle>
+		<itunes:summary>Siniestro Total – ¿Qué tal homosexual? Golpes Bajos – No Mires A Los Ojos De La Gente. Germán Coppini – El Ladrón de Bagdad. Coppini Con Maga – Malos tiempos para la lírica. Lemuripop – Lemuria. Barry Gibb Talk Show (SNL). Cómo organizamos las fotos. Hazel. El flujo de Nahúm con las series. Google compra … Seguir leyendo Ep008: El interruptor de la paz →</itunes:summary>
+		<itunes:author>Nahúm García y Andrés Cabanes</itunes:author>
+		<itunes:image href="http://errordeconexion.com/wp-content/uploads/powerpress/Error_de_Conexion_Logo_v2_3000.jpg" />
+		<itunes:season>1</itunes:season>
+		<itunes:episode>8</itunes:episode>
+		<itunes:title>Ep008: El interruptor de la paz</itunes:title>
+		<itunes:duration>1:05:49</itunes:duration>
+		</item>
+	<item>
+		<title>Ep007: 2013 &#8211; La postcuela</title>
+		<link>http://errordeconexion.com/007-2013-la-postcuela/</link>
+		<pubDate>Thu, 09 Jan 2014 23:14:46 +0000</pubDate>
+		<guid isPermaLink="false">http://errordeconexion.com/?p=72</guid>
+		<description>&lt;p&gt;Samsung y Michael Bay. El Kindle Paperblue de Andrés. Kindle X-Ray. Nuestro autoregalo, Battlestar Galactica completa el Blu Ray por 30₤ en Amazon UK. IKEA en BSG 1 y 2. ¡Nueva sintonía! Orgasmos cerebrales. El estilo ochentero en la radio. Northern Exposure (Doctor en Alaska). La puerta que suena como Chewbacca. Ecos de Sociedad: la … &lt;a href=&quot;http://errordeconexion.com/007-2013-la-postcuela/&quot; class=&quot;more-link&quot;&gt;Seguir leyendo &lt;span class=&quot;screen-reader-text&quot;&gt;Ep007: 2013 – La postcuela&lt;/span&gt; &lt;span class=&quot;meta-nav&quot;&gt;→&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The post &lt;a href=&quot;http://errordeconexion.com/007-2013-la-postcuela/&quot;&gt;Ep007: 2013 – La postcuela&lt;/a&gt; first appeared on &lt;a href=&quot;http://errordeconexion.com&quot;&gt;Error de Conexión&lt;/a&gt;.&lt;/p&gt;</description>
+		<enclosure url="http://media.blubrry.com/errordeconexion/errordeconexion.com/episodes/EDC_Ep007.m4a" length="33216619" type="audio/x-m4a" />
+		<itunes:subtitle>Samsung y Michael Bay. El Kindle Paperblue de Andrés. Kindle X-Ray. Nuestro autoregalo, Battlestar Galactica completa el Blu Ray por 30₤ en Amazon UK. IKEA en BSG 1 y 2. ¡Nueva sintonía! Orgasmos cerebrales. El estilo ochentero en la radio.</itunes:subtitle>
+		<itunes:summary>Samsung y Michael Bay. El Kindle Paperblue de Andrés. Kindle X-Ray. Nuestro autoregalo, Battlestar Galactica completa el Blu Ray por 30₤ en Amazon UK. IKEA en BSG 1 y 2. ¡Nueva sintonía! Orgasmos cerebrales. El estilo ochentero en la radio. Northern Exposure (Doctor en Alaska). La puerta que suena como Chewbacca. Ecos de Sociedad: la … Seguir leyendo Ep007: 2013 – La postcuela →</itunes:summary>
+		<itunes:author>Nahúm García y Andrés Cabanes</itunes:author>
+		<itunes:image href="http://errordeconexion.com/wp-content/uploads/powerpress/Error_de_Conexion_Logo_v2_3000.jpg" />
+		<itunes:season>1</itunes:season>
+		<itunes:episode>7</itunes:episode>
+		<itunes:title>Ep007: 2013 - La postcuela</itunes:title>
+		<itunes:duration>1:02:04</itunes:duration>
+		</item>
+	<item>
+		<title>Ep006: Piel distópica y homoprazol navideño &#8211; Lo mejor de nuestro 2013</title>
+		<link>http://errordeconexion.com/006-piel-distopica-y-homoprazol-navideno-lo-mejor-de-nuestro-2013/</link>
+		<pubDate>Mon, 30 Dec 2013 19:35:50 +0000</pubDate>
+		<guid isPermaLink="false">http://errordeconexion.com/?p=63</guid>
+		<description>&lt;p&gt;Discos Novedades: Arcade Fire – Reflektor HAIM – Days Are Gone Goldfrapp – Tales Of Us Dr. Dog – B-Room Kurt Vile – Walking On A Pretty Daze Nick Cave – Push The Sky Away Iván Ferreiro – Val Miñor Julio de la Rosa – Pequeños Trastornos Sin Importancia Párajo Sunrise – Kulturkatzenjammer Cabezalí – … &lt;a href=&quot;http://errordeconexion.com/006-piel-distopica-y-homoprazol-navideno-lo-mejor-de-nuestro-2013/&quot; class=&quot;more-link&quot;&gt;Seguir leyendo &lt;span class=&quot;screen-reader-text&quot;&gt;Ep006: Piel distópica y homoprazol navideño – Lo mejor de nuestro 2013&lt;/span&gt; &lt;span class=&quot;meta-nav&quot;&gt;→&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The post &lt;a href=&quot;http://errordeconexion.com/006-piel-distopica-y-homoprazol-navideno-lo-mejor-de-nuestro-2013/&quot;&gt;Ep006: Piel distópica y homoprazol navideño – Lo mejor de nuestro 2013&lt;/a&gt; first appeared on &lt;a href=&quot;http://errordeconexion.com&quot;&gt;Error de Conexión&lt;/a&gt;.&lt;/p&gt;</description>
+		<enclosure url="http://media.blubrry.com/errordeconexion/errordeconexion.com/episodes/EDC_Ep006.m4a" length="42622812" type="audio/x-m4a" />
+		<itunes:subtitle>Discos Novedades: Arcade Fire – Reflektor HAIM – Days Are Gone Goldfrapp – Tales Of Us Dr. Dog – B-Room Kurt Vile – Walking On A Pretty Daze Nick Cave – Push The Sky Away Iván Ferreiro – Val Miñor Julio de la Rosa – Pequeños Trastornos Sin Importancia ...</itunes:subtitle>
+		<itunes:summary>Discos Novedades: Arcade Fire – Reflektor HAIM – Days Are Gone Goldfrapp – Tales Of Us Dr. Dog – B-Room Kurt Vile – Walking On A Pretty Daze Nick Cave – Push The Sky Away Iván Ferreiro – Val Miñor Julio de la Rosa – Pequeños Trastornos Sin Importancia Párajo Sunrise – Kulturkatzenjammer Cabezalí – … Seguir leyendo Ep006: Piel distópica y homoprazol navideño – Lo mejor de nuestro 2013 →</itunes:summary>
+		<itunes:author>Nahúm García y Andrés Cabanes</itunes:author>
+		<itunes:image href="http://errordeconexion.com/wp-content/uploads/powerpress/Error_de_Conexion_Logo_v2_3000.jpg" />
+		<itunes:season>1</itunes:season>
+		<itunes:episode>6</itunes:episode>
+		<itunes:title>Ep006: Piel distópica y homoprazol navideño - Lo mejor de nuestro 2013</itunes:title>
+		<itunes:duration>1:21:26</itunes:duration>
+		</item>
+	<item>
+		<title>Ep005: En el espacio nadie puede oír tus gatitos</title>
+		<link>http://errordeconexion.com/005-en-el-espacio-nadie-puede-oir-tus-gatitos/</link>
+		<pubDate>Thu, 19 Dec 2013 23:05:00 +0000</pubDate>
+		<guid isPermaLink="false">http://errordeconexion.com/?p=47</guid>
+		<description>&lt;p&gt;Neil Gaiman y Terry Prachet “Buenos Presagios”. Terry Pratchett, «Choosing to Die«. Los anuncios navideños: Loterías, su parodia terrorífica y Campofrio. Always on my mind (Calamaro). Finale tercera temporada de Homeland, el capítulo más visto de la serie. ¿Nueva edad de oro de la ciencia-ficción? “Interstellar” la nueva película de ciencia ficción de Cristopher Nolan. … &lt;a href=&quot;http://errordeconexion.com/005-en-el-espacio-nadie-puede-oir-tus-gatitos/&quot; class=&quot;more-link&quot;&gt;Seguir leyendo &lt;span class=&quot;screen-reader-text&quot;&gt;Ep005: En el espacio nadie puede oír tus gatitos&lt;/span&gt; &lt;span class=&quot;meta-nav&quot;&gt;→&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The post &lt;a href=&quot;http://errordeconexion.com/005-en-el-espacio-nadie-puede-oir-tus-gatitos/&quot;&gt;Ep005: En el espacio nadie puede oír tus gatitos&lt;/a&gt; first appeared on &lt;a href=&quot;http://errordeconexion.com&quot;&gt;Error de Conexión&lt;/a&gt;.&lt;/p&gt;</description>
+		<enclosure url="http://media.blubrry.com/errordeconexion/errordeconexion.com/episodes/EDC_Ep005.mp3" length="33099069" type="audio/mpeg" />
+		<itunes:subtitle>Neil Gaiman y Terry Prachet “Buenos Presagios”. Terry Pratchett, «Choosing to Die«. Los anuncios navideños: Loterías, su parodia terrorífica y Campofrio. Always on my mind (Calamaro). Finale tercera temporada de Homeland,</itunes:subtitle>
+		<itunes:summary>Neil Gaiman y Terry Prachet “Buenos Presagios”. Terry Pratchett, «Choosing to Die«. Los anuncios navideños: Loterías, su parodia terrorífica y Campofrio. Always on my mind (Calamaro). Finale tercera temporada de Homeland, el capítulo más visto de la serie. ¿Nueva edad de oro de la ciencia-ficción? “Interstellar” la nueva película de ciencia ficción de Cristopher Nolan. … Seguir leyendo Ep005: En el espacio nadie puede oír tus gatitos →</itunes:summary>
+		<itunes:author>Nahúm García y Andrés Cabanes</itunes:author>
+		<itunes:image href="http://errordeconexion.com/wp-content/uploads/powerpress/Error_de_Conexion_Logo_v2_3000.jpg" />
+		<itunes:season>1</itunes:season>
+		<itunes:episode>5</itunes:episode>
+		<itunes:title>Ep005: En el espacio nadie puede oír tus gatitos</itunes:title>
+		<itunes:duration>1:04:52</itunes:duration>
+		</item>
+	<item>
+		<title>Ep004: El estrangulador del euroconector</title>
+		<link>http://errordeconexion.com/004-el-estrangulador-del-euroconector/</link>
+		<pubDate>Thu, 12 Dec 2013 19:55:55 +0000</pubDate>
+		<guid isPermaLink="false">http://errordeconexion.com/?p=42</guid>
+		<description>&lt;p&gt;El cortometraje de Lana del Rey  Aventurera, de Natalia Lafourcade con Alex Ferreira Vídeo de Arcade Fire Videoclips con gente corriendo The Creators Project El documental de Vice sobre la burundanga Las 10 mejores series de 2013 según Time Journey Yotaphone iBeacons USB reversible&lt;/p&gt;
+&lt;p&gt;The post &lt;a href=&quot;http://errordeconexion.com/004-el-estrangulador-del-euroconector/&quot;&gt;Ep004: El estrangulador del euroconector&lt;/a&gt; first appeared on &lt;a href=&quot;http://errordeconexion.com&quot;&gt;Error de Conexión&lt;/a&gt;.&lt;/p&gt;</description>
+		<enclosure url="http://media.blubrry.com/errordeconexion/errordeconexion.com/episodes/EDC_Ep004.mp3" length="23996852" type="audio/mpeg" />
+		<itunes:subtitle>El cortometraje de Lana del Rey  Aventurera, de Natalia Lafourcade con Alex Ferreira Vídeo de Arcade Fire Videoclips con gente corriendo The Creators Project El documental de Vice sobre la burundanga Las 10 mejores series de 2013 según Time Journey Yot...</itunes:subtitle>
+		<itunes:summary>El cortometraje de Lana del Rey  Aventurera, de Natalia Lafourcade con Alex Ferreira Vídeo de Arcade Fire Videoclips con gente corriendo The Creators Project El documental de Vice sobre la burundanga Las 10 mejores series de 2013 según Time Journey Yotaphone iBeacons USB reversible</itunes:summary>
+		<itunes:author>Nahúm García y Andrés Cabanes</itunes:author>
+		<itunes:image href="http://errordeconexion.com/wp-content/uploads/powerpress/Error_de_Conexion_Logo_v2_3000.jpg" />
+		<itunes:season>1</itunes:season>
+		<itunes:episode>4</itunes:episode>
+		<itunes:title>Ep004: El estrangulador del euroconector</itunes:title>
+		<itunes:duration>45:55</itunes:duration>
+		</item>
+	<item>
+		<title>Ep003: Si me queréis, iOS</title>
+		<link>http://errordeconexion.com/003-si-me-quereis-ios/</link>
+		<pubDate>Thu, 05 Dec 2013 00:22:43 +0000</pubDate>
+		<guid isPermaLink="false">http://errordeconexion.com/?p=34</guid>
+		<description>&lt;p&gt;Drones de Amazon, artículo de César Astudillo The Wirecutter Yupick.es Sigue el dilema de Andrés eligiendo teléfono La importancia de las reseñas online Soylent y el experimento de 30 días a base del compuesto La guía de Eric Schimdt para pasarse a Android Anunciamos el ganador de nuestro concurso absurdo musical&lt;/p&gt;
+&lt;p&gt;The post &lt;a href=&quot;http://errordeconexion.com/003-si-me-quereis-ios/&quot;&gt;Ep003: Si me queréis, iOS&lt;/a&gt; first appeared on &lt;a href=&quot;http://errordeconexion.com&quot;&gt;Error de Conexión&lt;/a&gt;.&lt;/p&gt;</description>
+		<enclosure url="http://media.blubrry.com/errordeconexion/errordeconexion.com/episodes/EDC_Ep003.mp3" length="34617488" type="audio/mpeg" />
+		<itunes:subtitle>Drones de Amazon, artículo de César Astudillo The Wirecutter Yupick.es Sigue el dilema de Andrés eligiendo teléfono La importancia de las reseñas online Soylent y el experimento de 30 días a base del compuesto La guía de Eric Schimdt para pasarse a And...</itunes:subtitle>
+		<itunes:summary>Drones de Amazon, artículo de César Astudillo The Wirecutter Yupick.es Sigue el dilema de Andrés eligiendo teléfono La importancia de las reseñas online Soylent y el experimento de 30 días a base del compuesto La guía de Eric Schimdt para pasarse a Android Anunciamos el ganador de nuestro concurso absurdo musical</itunes:summary>
+		<itunes:author>Nahúm García y Andrés Cabanes</itunes:author>
+		<itunes:image href="http://errordeconexion.com/wp-content/uploads/powerpress/Error_de_Conexion_Logo_v2_3000.jpg" />
+		<itunes:season>1</itunes:season>
+		<itunes:episode>3</itunes:episode>
+		<itunes:title>Ep003: Si me queréis, iOS</itunes:title>
+		<itunes:duration>1:08:02</itunes:duration>
+		</item>
+	<item>
+		<title>Ep002: Saliendo del armario loser</title>
+		<link>http://errordeconexion.com/002-saliendo-del-armario-loser/</link>
+		<pubDate>Thu, 28 Nov 2013 00:01:08 +0000</pubDate>
+		<guid isPermaLink="false">http://errordeconexion.com/?p=25</guid>
+		<description>&lt;p&gt;La redención de los zombies: Warm Bodies, In The Flesh. Herramientas de blogging. Markdown. La regla 34. Mou – app para Markdown. La radionovela porno. Bob Dylan – Like A Rolling Stone Vídeo. Kanye West con Kim Kardashian y la parodia de Seth Rogen con James Franco. Pharrell Williams – vídeo de 24 horas.&lt;/p&gt;
+&lt;p&gt;The post &lt;a href=&quot;http://errordeconexion.com/002-saliendo-del-armario-loser/&quot;&gt;Ep002: Saliendo del armario loser&lt;/a&gt; first appeared on &lt;a href=&quot;http://errordeconexion.com&quot;&gt;Error de Conexión&lt;/a&gt;.&lt;/p&gt;</description>
+		<enclosure url="http://media.blubrry.com/errordeconexion/errordeconexion.com/episodes/EDC_Ep002.mp3" length="28618369" type="audio/mpeg" />
+		<itunes:subtitle>La redención de los zombies: Warm Bodies, In The Flesh. Herramientas de blogging. Markdown. La regla 34. Mou – app para Markdown. La radionovela porno. Bob Dylan – Like A Rolling Stone Vídeo. Kanye West con Kim Kardashian y la parodia de Seth Rogen con...</itunes:subtitle>
+		<itunes:summary>La redención de los zombies: Warm Bodies, In The Flesh. Herramientas de blogging. Markdown. La regla 34. Mou – app para Markdown. La radionovela porno. Bob Dylan – Like A Rolling Stone Vídeo. Kanye West con Kim Kardashian y la parodia de Seth Rogen con James Franco. Pharrell Williams – vídeo de 24 horas.</itunes:summary>
+		<itunes:author>Nahúm García y Andrés Cabanes</itunes:author>
+		<itunes:image href="http://errordeconexion.com/wp-content/uploads/powerpress/Error_de_Conexion_Logo_v2_3000.jpg" />
+		<itunes:season>1</itunes:season>
+		<itunes:episode>2</itunes:episode>
+		<itunes:title>Ep002: Saliendo del armario loser</itunes:title>
+		<itunes:duration>58:05</itunes:duration>
+		</item>
+	<item>
+		<title>Ep001: AUTOEXEC.BAT</title>
+		<link>http://errordeconexion.com/001-autoexec-bat/</link>
+		<pubDate>Sun, 24 Nov 2013 16:45:13 +0000</pubDate>
+		<guid isPermaLink="false">http://wp.errordeconexion.com/?p=5</guid>
+		<description>&lt;p&gt;Capítulo inaugural donde Andrés y Nahúm hablan sobre por qué el primero no se va a comprar de nuevo un teléfono Android, sobre podcasts, aventuras gráficas clásicas, Chiquito de la Calzada, el bigote imaginario de Félix Rodríguez de la Fuente y muchos desvaríos y saltos de tema (nos lo perdonáis por ser el primero). Nota: … &lt;a href=&quot;http://errordeconexion.com/001-autoexec-bat/&quot; class=&quot;more-link&quot;&gt;Seguir leyendo &lt;span class=&quot;screen-reader-text&quot;&gt;Ep001: AUTOEXEC.BAT&lt;/span&gt; &lt;span class=&quot;meta-nav&quot;&gt;→&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The post &lt;a href=&quot;http://errordeconexion.com/001-autoexec-bat/&quot;&gt;Ep001: AUTOEXEC.BAT&lt;/a&gt; first appeared on &lt;a href=&quot;http://errordeconexion.com&quot;&gt;Error de Conexión&lt;/a&gt;.&lt;/p&gt;</description>
+		<enclosure url="http://media.blubrry.com/errordeconexion/errordeconexion.com/episodes/EDC_Ep001.mp3" length="27632968" type="audio/mpeg" />
+		<itunes:subtitle>Capítulo inaugural donde Andrés y Nahúm hablan sobre por qué el primero no se va a comprar de nuevo un teléfono Android, sobre podcasts, aventuras gráficas clásicas, Chiquito de la Calzada, el bigote imaginario de Félix Rodríguez de la Fuente y muchos ...</itunes:subtitle>
+		<itunes:summary>Capítulo inaugural donde Andrés y Nahúm hablan sobre por qué el primero no se va a comprar de nuevo un teléfono Android, sobre podcasts, aventuras gráficas clásicas, Chiquito de la Calzada, el bigote imaginario de Félix Rodríguez de la Fuente y muchos desvaríos y saltos de tema (nos lo perdonáis por ser el primero). Nota: … Seguir leyendo Ep001: AUTOEXEC.BAT →</itunes:summary>
+		<itunes:author>Nahúm García y Andrés Cabanes</itunes:author>
+		<itunes:image href="http://errordeconexion.com/wp-content/uploads/powerpress/Error_de_Conexion_Logo_v2_3000.jpg" />
+		<itunes:season>1</itunes:season>
+		<itunes:episode>1</itunes:episode>
+		<itunes:title>Ep001: AUTOEXEC.BAT</itunes:title>
+		<itunes:duration>57:10</itunes:duration>
+		</item>
+</channel>
+</rss>
