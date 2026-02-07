@@ -1,0 +1,29 @@
+---
+layout: default
+---
+<article class="episode">
+  <header class="episode-header">
+    <h1>{{ page.title }}</h1>
+    <div class="episode-meta">
+      <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%d/%m/%Y" }}</time>
+      {% if page.itunes_season and page.itunes_episode %}
+        <span class="episode-number">Temporada {{ page.itunes_season }}, Episodio {{ page.itunes_episode }}</span>
+      {% endif %}
+      {% if page.itunes_duration %}
+        <span class="episode-duration">{{ page.itunes_duration }}</span>
+      {% endif %}
+    </div>
+  </header>
+
+  {% include player.html audio_url=page.audio_url audio_type=page.audio_type %}
+
+  <div class="episode-content">
+    {{ content }}
+  </div>
+
+  <div class="episode-download">
+    <a href="{{ page.audio_url }}" download>Descargar episodio</a>
+  </div>
+
+  <a href="{{ '/' | relative_url }}" class="back-link">&larr; Todos los episodios</a>
+</article>

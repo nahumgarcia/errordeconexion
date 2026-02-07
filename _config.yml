@@ -1,0 +1,33 @@
+title: Error de Conexión
+description: Un podcast trasnochado sobre estar vivo en el siglo XXI.
+url: https://errordeconexion.com
+lang: es
+
+# Podcast metadata
+podcast:
+  feed_url: https://errordeconexion.s3.amazonaws.com/feed.xml
+  author: "Nahúm García y Andrés Cabanes"
+  email: edc@nahumgarcia.com
+  image: https://errordeconexion.s3.us-east-1.amazonaws.com/powerpress/Error_de_Conexion_Logo_v2_3000-419.jpg
+  image_small: https://errordeconexion.s3.us-east-1.amazonaws.com/powerpress/EDC_Logo_300.jpg
+  category: "Society &amp; Culture"
+  subcategory: "Personal Journals"
+  explicit: "clean"
+  type: episodic
+  copyright: "© Error de Conexión 2025"
+  apple_url: https://podcasts.apple.com/es/podcast/error-de-conexi%C3%B3n/id762715436
+  spotify_url: https://open.spotify.com/show/0IVJbSXCqgwcxNm9idQG0d?si=1c1ee4fb19a34100
+
+# Jekyll config
+permalink: /:slug/
+timezone: Europe/Madrid
+encoding: utf-8
+
+# Build
+exclude:
+  - scripts/
+  - feed_original.xml
+  - REQUISITOS.md
+  - README.md
+  - Gemfile
+  - Gemfile.lock
